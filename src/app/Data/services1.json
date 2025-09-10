@@ -1,0 +1,35 @@
+
+
+
+[
+  {
+    "icon": "/assets/images/icon/serviceIcon3_1.svg",
+    "title": "Website Design",
+    "desc": "Custom, responsive websites designed to showcase your brand and deliver an engaging user experience across all devices."
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_2.svg",
+    "title": "E-Commerce Solutions",
+    "desc": "Powerful online stores built with Shopify, WooCommerce, or custom platforms to help you sell more and grow your business."
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_3.svg",
+    "title": "Mobile App Development",
+    "desc": "iOS, Android, and cross-platform mobile apps tailored to your needs, providing seamless performance and scalability."
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_5.svg",
+    "title": "Branding & UI/UX Design",
+    "desc": "Clean, modern interfaces with intuitive navigation that reflect your brand identity and keep users engaged."
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_5.svg",
+    "title": "Modern Code & Scalability",
+    "desc": "Built with the latest technologies to ensure fast, secure, and scalable digital solutions that grow with your business."
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_6.svg",
+    "title": "Interactive Experiences",
+    "desc": "User-focused, interactive websites and apps that not only look stunning but also convert visitors into loyal customers."
+  }
+]
