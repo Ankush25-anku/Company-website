@@ -40,7 +40,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$html$2d$reac
 ;
 ;
 ;
-const HeroBanner2 = ({ subtitle, title, btnname, btnurl, btnname2, btnurl2, img1, img2, img3 })=>{
+const HeroBanner2 = ({ bgimg, subtitle, title, btnname, btnurl, btnname2, btnurl2, img1, img2, img3 })=>{
     (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useEffect"])(()=>{
         (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$Common$2f$loadBackgroudImages$2e$jsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"])();
     }, []);
@@ -50,8 +50,8 @@ const HeroBanner2 = ({ subtitle, title, btnname, btnurl, btnname2, btnurl2, img1
             className: "intro-container-wrapper style2 section-padding pt-0",
             children: [
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "intro-wrapper style2",
-                    "data-background": "/assets/images/bg/introBg2_1.png",
+                    className: "intro-wrapper style2 bg-cover",
+                    "data-background": bgimg,
                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "container",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -77,14 +77,14 @@ const HeroBanner2 = ({ subtitle, title, btnname, btnurl, btnname2, btnurl2, img1
                                                             height: 16
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-                                                            lineNumber: 25,
-                                                            columnNumber: 63
+                                                            lineNumber: 39,
+                                                            columnNumber: 23
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-                                                    lineNumber: 24,
-                                                    columnNumber: 41
+                                                    lineNumber: 34,
+                                                    columnNumber: 21
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                                                     className: "intro-title wow fadeInUp",
@@ -92,14 +92,14 @@ const HeroBanner2 = ({ subtitle, title, btnname, btnurl, btnname2, btnurl2, img1
                                                     children: (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$html$2d$react$2d$parser$2f$esm$2f$index$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$locals$3e$__["default"])(title)
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-                                                    lineNumber: 27,
-                                                    columnNumber: 41
+                                                    lineNumber: 46,
+                                                    columnNumber: 21
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-                                            lineNumber: 23,
-                                            columnNumber: 37
+                                            lineNumber: 33,
+                                            columnNumber: 19
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                             className: "btn-wrapper style1 wow fadeInUp",
@@ -124,13 +124,13 @@ const HeroBanner2 = ({ subtitle, title, btnname, btnurl, btnname2, btnurl2, img1
                                                                         fill: "white"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-                                                                        lineNumber: 34,
-                                                                        columnNumber: 53
+                                                                        lineNumber: 67,
+                                                                        columnNumber: 27
                                                                     }, this)
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-                                                                    lineNumber: 33,
-                                                                    columnNumber: 49
+                                                                    lineNumber: 66,
+                                                                    columnNumber: 25
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("defs", {
                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("clipPath", {
@@ -141,30 +141,30 @@ const HeroBanner2 = ({ subtitle, title, btnname, btnurl, btnname2, btnurl2, img1
                                                                             fill: "white"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-                                                                            lineNumber: 40,
-                                                                            columnNumber: 57
+                                                                            lineNumber: 74,
+                                                                            columnNumber: 29
                                                                         }, this)
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-                                                                        lineNumber: 39,
-                                                                        columnNumber: 53
+                                                                        lineNumber: 73,
+                                                                        columnNumber: 27
                                                                     }, this)
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-                                                                    lineNumber: 38,
-                                                                    columnNumber: 49
+                                                                    lineNumber: 72,
+                                                                    columnNumber: 25
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-                                                            lineNumber: 31,
-                                                            columnNumber: 45
+                                                            lineNumber: 59,
+                                                            columnNumber: 23
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-                                                    lineNumber: 30,
-                                                    columnNumber: 41
+                                                    lineNumber: 57,
+                                                    columnNumber: 21
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                                     className: "theme-btn style3 wow fadeInUp",
@@ -186,13 +186,13 @@ const HeroBanner2 = ({ subtitle, title, btnname, btnurl, btnname2, btnurl2, img1
                                                                         fill: "white"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-                                                                        lineNumber: 50,
-                                                                        columnNumber: 53
+                                                                        lineNumber: 93,
+                                                                        columnNumber: 27
                                                                     }, this)
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-                                                                    lineNumber: 49,
-                                                                    columnNumber: 49
+                                                                    lineNumber: 92,
+                                                                    columnNumber: 25
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("defs", {
                                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("clipPath", {
@@ -203,62 +203,62 @@ const HeroBanner2 = ({ subtitle, title, btnname, btnurl, btnname2, btnurl2, img1
                                                                             fill: "white"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-                                                                            lineNumber: 56,
-                                                                            columnNumber: 57
+                                                                            lineNumber: 100,
+                                                                            columnNumber: 29
                                                                         }, this)
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-                                                                        lineNumber: 55,
-                                                                        columnNumber: 53
+                                                                        lineNumber: 99,
+                                                                        columnNumber: 27
                                                                     }, this)
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-                                                                    lineNumber: 54,
-                                                                    columnNumber: 49
+                                                                    lineNumber: 98,
+                                                                    columnNumber: 25
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-                                                            lineNumber: 47,
-                                                            columnNumber: 45
+                                                            lineNumber: 85,
+                                                            columnNumber: 23
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-                                                    lineNumber: 45,
-                                                    columnNumber: 41
+                                                    lineNumber: 79,
+                                                    columnNumber: 21
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-                                            lineNumber: 29,
-                                            columnNumber: 37
+                                            lineNumber: 53,
+                                            columnNumber: 19
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-                                    lineNumber: 22,
-                                    columnNumber: 33
+                                    lineNumber: 32,
+                                    columnNumber: 17
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-                                lineNumber: 21,
-                                columnNumber: 29
+                                lineNumber: 31,
+                                columnNumber: 15
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-                            lineNumber: 20,
-                            columnNumber: 25
+                            lineNumber: 30,
+                            columnNumber: 13
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-                        lineNumber: 19,
-                        columnNumber: 21
+                        lineNumber: 29,
+                        columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-                    lineNumber: 18,
-                    columnNumber: 17
+                    lineNumber: 28,
+                    columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "thumb-box",
@@ -273,8 +273,8 @@ const HeroBanner2 = ({ subtitle, title, btnname, btnurl, btnname2, btnurl2, img1
                                 height: 682
                             }, void 0, false, {
                                 fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-                                lineNumber: 70,
-                                columnNumber: 21
+                                lineNumber: 115,
+                                columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "thumb1 float-bob-y",
@@ -285,13 +285,13 @@ const HeroBanner2 = ({ subtitle, title, btnname, btnurl, btnname2, btnurl2, img1
                                     height: 261
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-                                    lineNumber: 72,
-                                    columnNumber: 25
+                                    lineNumber: 123,
+                                    columnNumber: 15
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-                                lineNumber: 71,
-                                columnNumber: 25
+                                lineNumber: 122,
+                                columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "thumb2 float-bob-x",
@@ -302,35 +302,35 @@ const HeroBanner2 = ({ subtitle, title, btnname, btnurl, btnname2, btnurl2, img1
                                     height: 232
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-                                    lineNumber: 75,
-                                    columnNumber: 25
+                                    lineNumber: 126,
+                                    columnNumber: 15
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-                                lineNumber: 74,
-                                columnNumber: 25
+                                lineNumber: 125,
+                                columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-                        lineNumber: 69,
-                        columnNumber: 21
+                        lineNumber: 114,
+                        columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-                    lineNumber: 68,
-                    columnNumber: 17
+                    lineNumber: 113,
+                    columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-            lineNumber: 17,
-            columnNumber: 13
+            lineNumber: 26,
+            columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/app/Components/HeroBanner/HeroBanner2.jsx",
-        lineNumber: 16,
-        columnNumber: 9
+        lineNumber: 25,
+        columnNumber: 5
     }, this);
 };
 const __TURBOPACK__default__export__ = HeroBanner2;

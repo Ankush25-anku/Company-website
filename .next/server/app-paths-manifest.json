@@ -1,9 +1,9 @@
 {
   "/(home1)/page": "app/(home1)/page.js",
-  "/(innerpage)/blog/page": "app/(innerpage)/blog/page.js",
-  "/(innerpage)/blog-sidebar/page": "app/(innerpage)/blog-sidebar/page.js",
+  "/home2/page": "app/home2/page.js",
   "/_not-found/page": "app/_not-found/page.js",
-  "/(innerpage)/blog-left-sidebar/page": "app/(innerpage)/blog-left-sidebar/page.js",
-  "/(innerpage)/blog/blog-details/page": "app/(innerpage)/blog/blog-details/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js"
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/home3/page": "app/home3/page.js",
+  "/(innerpage)/about/page": "app/(innerpage)/about/page.js",
+  "/(innerpage)/team/page": "app/(innerpage)/team/page.js"
 }
