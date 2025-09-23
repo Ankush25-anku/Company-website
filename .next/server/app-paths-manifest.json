@@ -1,13 +1,5 @@
 {
   "/(home1)/page": "app/(home1)/page.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/home2/page": "app/home2/page.js",
-  "/_not-found/page": "app/_not-found/page.js",
-  "/(innerpage)/service/page": "app/(innerpage)/service/page.js",
-  "/(innerpage)/about/page": "app/(innerpage)/about/page.js",
-  "/(innerpage)/team/page": "app/(innerpage)/team/page.js",
-  "/(innerpage)/team/team-details/page": "app/(innerpage)/team/team-details/page.js",
-  "/(innerpage)/pricing/page": "app/(innerpage)/pricing/page.js",
-  "/(innerpage)/faq/page": "app/(innerpage)/faq/page.js",
-  "/(innerpage)/contact/page": "app/(innerpage)/contact/page.js"
+  "/_not-found/page": "app/_not-found/page.js"
 }

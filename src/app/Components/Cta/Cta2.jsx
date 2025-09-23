@@ -37,12 +37,12 @@ const Cta2 = () => {
         <div className="container">
           <div className="service-wrapper style3">
             <h2 className="wow fadeInUp" data-wow-delay=".3s">
-              Build ERP Solutions & Websites with RC Techbox IT Solutions.
+              Build ERP Solutions & Websites with RC Techbox IT Services.
             </h2>
             <p className="text wow fadeInUp" data-wow-delay=".5s">
-              At RC Techbox IT Solutions, we specialize in developing powerful
-              ERP systems and modern, responsive websites tailored to your
-              business needs. Our mission is to deliver efficient, scalable, and
+              At RC Techbox IT Services we specialize in developing powerful ERP
+              systems and modern, responsive websites tailored to your business
+              needs. Our mission is to deliver efficient, scalable, and
               user-friendly digital solutions that help organizations streamline
               their operations and grow faster. Whether you need a customized
               ERP platform or a professional website, we combine technology and

@@ -26,7 +26,7 @@ const Faq1 = () => {
 
   const FaqContent = {
     Content:
-      "RC Techbox IT Solution provides ERP and website solutions that streamline business processes, improve productivity, and enhance collaboration across teams.",
+      "RC Techbox IT Services provides ERP and website solutions that streamline business processes, improve productivity, and enhance collaboration across teams.",
     img1: "/assets/images/faq/faqThumb1_2.webp",
     img2: "/assets/images/faq/faqThumb1_1.webp",
   };

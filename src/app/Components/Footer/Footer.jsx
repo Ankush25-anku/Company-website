@@ -33,7 +33,7 @@ const Footer = () => {
                 </div>
                 <div className="footer-content">
                   <p>
-                    RC Techbox IT Solutions specializes in building custom ERP
+                    RC Techbox IT Services specializes in building custom ERP
                     systems and modern websites to help businesses streamline
                     operations and enhance their online presence.
                   </p>
@@ -129,7 +129,9 @@ const Footer = () => {
                   <div className="info">
                     <div className="icon">{/* Email Icon */}</div>
                     <div className="link">
-                      <a href="mailto:ravi@rctechbox.com">ravi@rctechbox.com</a>
+                      <a href="mailto:ravichandra@rctechbox.com">
+                        ravichandra@rctechbox.com
+                      </a>
                     </div>
                   </div>
                   <div className="info">
@@ -149,8 +151,10 @@ const Footer = () => {
         <div className="container">
           <div className="footer-wrapper d-flex align-items-center justify-content-between">
             <p className="wow fadeInLeft" data-wow-delay=".3s">
-              Copyright © RC Techbox IT Solutions. All rights reserved.
+              Copyright © {new Date().getFullYear()} RC Techbox IT Services. All
+              rights reserved.
             </p>
+
             <ul className="social-links" data-wow-delay=".5s">
               <li>
                 <a href="#">

@@ -143,7 +143,7 @@ const Footer = ()=>{
                                                 className: "footer-content",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                        children: "RC Techbox IT Solutions specializes in building custom ERP systems and modern websites to help businesses streamline operations and enhance their online presence."
+                                                        children: "RC Techbox IT Services specializes in building custom ERP systems and modern websites to help businesses streamline operations and enhance their online presence."
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/Components/Footer/Footer.jsx",
                                                         lineNumber: 35,
@@ -497,8 +497,8 @@ const Footer = ()=>{
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                             className: "link",
                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                                href: "mailto:ravi@rctechbox.com",
-                                                                children: "ravi@rctechbox.com"
+                                                                href: "mailto:ravichandra@rctechbox.com",
+                                                                children: "ravichandra@rctechbox.com"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/Footer/Footer.jsx",
                                                                 lineNumber: 132,
@@ -522,7 +522,7 @@ const Footer = ()=>{
                                                             className: "icon"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/Footer/Footer.jsx",
-                                                            lineNumber: 136,
+                                                            lineNumber: 138,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -532,18 +532,18 @@ const Footer = ()=>{
                                                                 children: "+91 7892104196"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/Footer/Footer.jsx",
-                                                                lineNumber: 138,
+                                                                lineNumber: 140,
                                                                 columnNumber: 23
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/Footer/Footer.jsx",
-                                                            lineNumber: 137,
+                                                            lineNumber: 139,
                                                             columnNumber: 21
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/Components/Footer/Footer.jsx",
-                                                    lineNumber: 135,
+                                                    lineNumber: 137,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
@@ -589,10 +589,14 @@ const Footer = ()=>{
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 className: "wow fadeInLeft",
                                 "data-wow-delay": ".3s",
-                                children: "Copyright © RC Techbox IT Solutions. All rights reserved."
-                            }, void 0, false, {
+                                children: [
+                                    "Copyright © ",
+                                    new Date().getFullYear(),
+                                    " RC Techbox IT Services. All rights reserved."
+                                ]
+                            }, void 0, true, {
                                 fileName: "[project]/src/app/Components/Footer/Footer.jsx",
-                                lineNumber: 151,
+                                lineNumber: 153,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -606,17 +610,17 @@ const Footer = ()=>{
                                                 className: "bi bi-facebook"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/Footer/Footer.jsx",
-                                                lineNumber: 157,
+                                                lineNumber: 161,
                                                 columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/Components/Footer/Footer.jsx",
-                                            lineNumber: 156,
+                                            lineNumber: 160,
                                             columnNumber: 17
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/Footer/Footer.jsx",
-                                        lineNumber: 155,
+                                        lineNumber: 159,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -626,17 +630,17 @@ const Footer = ()=>{
                                                 className: "bi bi-twitter"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/Footer/Footer.jsx",
-                                                lineNumber: 162,
+                                                lineNumber: 166,
                                                 columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/Components/Footer/Footer.jsx",
-                                            lineNumber: 161,
+                                            lineNumber: 165,
                                             columnNumber: 17
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/Footer/Footer.jsx",
-                                        lineNumber: 160,
+                                        lineNumber: 164,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -646,17 +650,17 @@ const Footer = ()=>{
                                                 className: "bi bi-linkedin"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/Footer/Footer.jsx",
-                                                lineNumber: 167,
+                                                lineNumber: 171,
                                                 columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/Components/Footer/Footer.jsx",
-                                            lineNumber: 166,
+                                            lineNumber: 170,
                                             columnNumber: 17
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/Footer/Footer.jsx",
-                                        lineNumber: 165,
+                                        lineNumber: 169,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -666,39 +670,39 @@ const Footer = ()=>{
                                                 className: "bi bi-pinterest"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/Footer/Footer.jsx",
-                                                lineNumber: 172,
+                                                lineNumber: 176,
                                                 columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/Components/Footer/Footer.jsx",
-                                            lineNumber: 171,
+                                            lineNumber: 175,
                                             columnNumber: 17
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/Footer/Footer.jsx",
-                                        lineNumber: 170,
+                                        lineNumber: 174,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/Components/Footer/Footer.jsx",
-                                lineNumber: 154,
+                                lineNumber: 158,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/Components/Footer/Footer.jsx",
-                        lineNumber: 150,
+                        lineNumber: 152,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/app/Components/Footer/Footer.jsx",
-                    lineNumber: 149,
+                    lineNumber: 151,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/app/Components/Footer/Footer.jsx",
-                lineNumber: 148,
+                lineNumber: 150,
                 columnNumber: 7
             }, this)
         ]

@@ -24,7 +24,7 @@ const Feature2 = () => {
                     Features to enhance your business with ERP & Websites
                   </h2>
                   <p className="section-desc wow fadeInUp" data-wow-delay=".6s">
-                    RC Techbox IT Solution offers ERP and website solutions to
+                    RC Techbox IT Services offers ERP and website solutions to
                     streamline processes, manage data, and grow your business
                     efficiently.
                   </p>
