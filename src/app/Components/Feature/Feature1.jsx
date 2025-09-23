@@ -22,19 +22,19 @@ const Feature1 = () => {
                 <div className="wcu-content">
                   <FeatureCard
                     img="/assets/images/icon/wcuIcon1_1.svg"
-                    title="High usability"
-                    content="There are many variations of passages of Lorem Ipsum"
-                  ></FeatureCard>
+                    title="High Usability"
+                    content="Our ERP and website solutions are easy to use for all teams."
+                  />
                   <FeatureCard
                     img="/assets/images/icon/wcuIcon1_2.svg"
                     title="Action Reminder"
-                    content="There are many variations of passages of Lorem Ipsum"
-                  ></FeatureCard>
+                    content="Automate tasks and processes to save time efficiently."
+                  />
                   <FeatureCard
                     img="/assets/images/icon/wcuIcon1_3.svg"
                     title="Merge Files"
-                    content="There are many variations of passages of Lorem Ipsum"
-                  ></FeatureCard>
+                    content="Manage and integrate your business data seamlessly."
+                  />
                 </div>
               </div>
               <div className="col-xl-4 d-flex justify-content-center">
@@ -64,19 +64,19 @@ const Feature1 = () => {
                 <div className="wcu-content">
                   <FeatureCard
                     img="/assets/images/icon/wcuIcon1_4.svg"
-                    title="Free Live Chat"
-                    content="There are many variations of passages of Lorem Ipsum"
-                  ></FeatureCard>
+                    title="Dedicated Support"
+                    content="We provide support for ERP and websites."
+                  />
                   <FeatureCard
                     img="/assets/images/icon/wcuIcon1_5.svg"
-                    title="Social Share"
-                    content="There are many variations of passages of Lorem Ipsum"
-                  ></FeatureCard>
+                    title="Scalable Solutions"
+                    content="ERP and web platforms that grow with you."
+                  />
                   <FeatureCard
                     img="/assets/images/icon/wcuIcon1_6.svg"
-                    title="Custom Shortcuts"
-                    content="There are many variations of passages of Lorem Ipsum"
-                  ></FeatureCard>
+                    title="Custom Integrations"
+                    content="Integrate ERP with your existing tools."
+                  />
                 </div>
               </div>
             </div>

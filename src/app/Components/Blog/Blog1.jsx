@@ -8,7 +8,7 @@ const Blog1 = () => {
         <div className="blog-wrapper style1">
           <div className="section-title text-center mxw-685 mx-auto">
             <div className="subtitle wow fadeInUp" data-wow-delay=".2s">
-              School ERP Blog{" "}
+              RC Techbox Blog{" "}
               <Image
                 src="/assets/images/icon/fireIcon.svg"
                 alt="img"
@@ -17,7 +17,7 @@ const Blog1 = () => {
               />
             </div>
             <h2 className="title wow fadeInUp" data-wow-delay=".4s">
-              Insights, Updates, and Best Practices for Modern Schools
+              Latest Insights on ERP & Website Solutions for Businesses
             </h2>
           </div>
           <div className="row gy-5">
@@ -42,11 +42,11 @@ const Blog1 = () => {
                       width={16}
                       height={12}
                     />
-                    School Management
+                    ERP Solutions
                   </div>
                   <h3>
                     <Link href="/blog/blog-details">
-                      How ERP Simplifies Attendance & Exam Management
+                      How ERP Boosts Efficiency in Businesses
                     </Link>
                   </h3>
                   <div className="blog-meta">
@@ -59,7 +59,7 @@ const Blog1 = () => {
                           height={16}
                         />
                       </span>
-                      <span className="text">By Admin</span>
+                      <span className="text">By RC Techbox</span>
                     </div>
                     <div className="item">
                       <span className="icon">
@@ -70,7 +70,7 @@ const Blog1 = () => {
                           height={16}
                         />
                       </span>
-                      <span className="text">Sep 30, 2024</span>
+                      <span className="text">Sep 30, 2025</span>
                     </div>
                   </div>
                 </div>
@@ -98,11 +98,11 @@ const Blog1 = () => {
                       width={16}
                       height={12}
                     />
-                    Digital Learning
+                    Website Development
                   </div>
                   <h3>
                     <Link href="/blog/blog-details">
-                      Benefits of Online Portals for Parents & Students
+                      Why a Modern Website is Essential for Business Growth
                     </Link>
                   </h3>
                   <div className="blog-meta">
@@ -115,7 +115,7 @@ const Blog1 = () => {
                           height={16}
                         />
                       </span>
-                      <span className="text">By Admin</span>
+                      <span className="text">By RC Techbox</span>
                     </div>
                     <div className="item">
                       <span className="icon">
@@ -126,7 +126,7 @@ const Blog1 = () => {
                           height={16}
                         />
                       </span>
-                      <span className="text">Sep 30, 2024</span>
+                      <span className="text">Oct 05, 2025</span>
                     </div>
                   </div>
                 </div>
@@ -154,11 +154,11 @@ const Blog1 = () => {
                       width={16}
                       height={12}
                     />
-                    Education Technology
+                    ERP & Web Tips
                   </div>
                   <h3>
                     <Link href="/blog/blog-details">
-                      Why Every School Needs an Integrated ERP Solution
+                      Top Tips for ERP Implementation
                     </Link>
                   </h3>
                   <div className="blog-meta">
@@ -171,7 +171,7 @@ const Blog1 = () => {
                           height={16}
                         />
                       </span>
-                      <span className="text">By Admin</span>
+                      <span className="text">By RC Techbox</span>
                     </div>
                     <div className="item">
                       <span className="icon">
@@ -182,7 +182,7 @@ const Blog1 = () => {
                           height={16}
                         />
                       </span>
-                      <span className="text">Oct 05, 2024</span>
+                      <span className="text">Oct 10, 2025</span>
                     </div>
                   </div>
                 </div>

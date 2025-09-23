@@ -542,7 +542,7 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
 
 var { r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, b: __turbopack_worker_blob_url__, g: global, __dirname, t: __turbopack_require_real__ } = __turbopack_context__;
 {
-__turbopack_export_value__(JSON.parse("[{\"title\":\"Looking for a solution to boost productivity?\",\"desc\":\"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which do not look even slightly\"},{\"title\":\"Need an easy way to manage your projects?\",\"desc\":\"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which do not look even slightly\"},{\"title\":\"Seeking a user-friendly solution for your team?\",\"desc\":\"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which do not look even slightly\"},{\"title\":\"Looking for a solution to boost productivity?\",\"desc\":\"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which do not look even slightly\"},{\"title\":\"Need an easy way to manage your projects?\",\"desc\":\"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which do not look even slightly\"},{\"title\":\"Seeking a user-friendly solution for your team?\",\"desc\":\"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which do not look even slightly\"}]"));}}),
+__turbopack_export_value__(JSON.parse("[{\"title\":\"Looking for ERP to boost productivity?\",\"desc\":\"RC Techbox provides ERP and website solutions that streamline your business operations efficiently.\"},{\"title\":\"Need an easy way to manage your projects?\",\"desc\":\"Our ERP modules simplify project and task management for individuals, startups, and enterprises.\"},{\"title\":\"Seeking a user-friendly solution for your team?\",\"desc\":\"We build intuitive ERP systems and websites that your team can adopt without hassle.\"},{\"title\":\"Looking for ERP to boost productivity?\",\"desc\":\"RC Techbox delivers tailored ERP and web solutions that enhance productivity across departments.\"},{\"title\":\"Need an easy way to manage your projects?\",\"desc\":\"Our ERP platforms offer simple tools to track tasks, deadlines, and workflows effectively.\"},{\"title\":\"Seeking a user-friendly solution for your team?\",\"desc\":\"We create websites and ERP systems designed for ease of use and seamless team collaboration.\"}]"));}}),
 "[project]/src/app/Components/Faq/Faq1.jsx [app-client] (ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
@@ -559,7 +559,6 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$imag
 ;
 var _s = __turbopack_refresh__.signature();
 "use client";
-;
 ;
 ;
 ;
@@ -588,9 +587,9 @@ const Faq1 = ()=>{
         firstItemOpen
     ]);
     const FaqContent = {
-        Content: 'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which do not look even slightly',
-        img1: '/assets/images/faq/faqThumb1_2.webp',
-        img2: '/assets/images/faq/faqThumb1_1.webp'
+        Content: "RC Techbox IT Solution provides ERP and website solutions that streamline business processes, improve productivity, and enhance collaboration across teams.",
+        img1: "/assets/images/faq/faqThumb1_2.webp",
+        img2: "/assets/images/faq/faqThumb1_1.webp"
     };
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
         className: "faq-section section-padding fix",
@@ -614,8 +613,8 @@ const Faq1 = ()=>{
                                                 Title: "Frequently Ask Questions"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/Faq/Faq1.jsx",
-                                                lineNumber: 44,
-                                                columnNumber: 37
+                                                lineNumber: 42,
+                                                columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                 className: "section-desc wow fadeInUp",
@@ -623,21 +622,22 @@ const Faq1 = ()=>{
                                                 children: FaqContent.Content
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/Faq/Faq1.jsx",
-                                                lineNumber: 48,
-                                                columnNumber: 37
+                                                lineNumber: 46,
+                                                columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/Components/Faq/Faq1.jsx",
-                                        lineNumber: 43,
-                                        columnNumber: 33
+                                        lineNumber: 41,
+                                        columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "faq-accordion",
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                             className: "accordion",
                                             id: "accordion",
-                                            children: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Data$2f$faq1$2e$json__$28$json$29$__["default"].slice(0, 3).map((item, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            children: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Data$2f$faq1$2e$json__$28$json$29$__["default"].slice(0, 3).map((item, index)=>// Updated the FAQ titles and descriptions here
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                     className: `accordion-item mb-3 wow fadeInUp ${index === openItemIndex ? "active" : ""}`,
                                                     "data-wow-delay": ".3s",
                                                     children: [
@@ -651,16 +651,16 @@ const Faq1 = ()=>{
                                                                 "data-bs-target": "#faq1",
                                                                 "aria-expanded": "true",
                                                                 "aria-controls": "faq1",
-                                                                children: item.title
+                                                                children: item.title === "Looking for a solution to boost productivity?" ? "How can RC Techbox boost my business productivity?" : item.title === "Need an easy way to manage your projects?" ? "Can I manage projects easily with RC Techbox?" : item.title === "Seeking a user-friendly solution for your team?" ? "Is RC Techbox easy for my team to use?" : item.title
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/Faq/Faq1.jsx",
-                                                                lineNumber: 55,
-                                                                columnNumber: 49
+                                                                lineNumber: 65,
+                                                                columnNumber: 27
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/Faq/Faq1.jsx",
-                                                            lineNumber: 54,
-                                                            columnNumber: 45
+                                                            lineNumber: 61,
+                                                            columnNumber: 25
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                             ref: accordionContentRef,
@@ -669,43 +669,43 @@ const Faq1 = ()=>{
                                                             "data-bs-parent": "#accordion",
                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                 className: "accordion-body",
-                                                                children: item.desc
+                                                                children: item.desc === "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which do not look even slightly" ? "RC Techbox offers intuitive ERP and website solutions to simplify your workflows, manage data efficiently, and enhance team collaboration." : item.desc
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/Faq/Faq1.jsx",
-                                                                lineNumber: 62,
-                                                                columnNumber: 49
+                                                                lineNumber: 91,
+                                                                columnNumber: 27
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/Faq/Faq1.jsx",
-                                                            lineNumber: 61,
-                                                            columnNumber: 45
+                                                            lineNumber: 85,
+                                                            columnNumber: 25
                                                         }, this)
                                                     ]
                                                 }, index, true, {
                                                     fileName: "[project]/src/app/Components/Faq/Faq1.jsx",
-                                                    lineNumber: 53,
-                                                    columnNumber: 41
+                                                    lineNumber: 54,
+                                                    columnNumber: 23
                                                 }, this))
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/Components/Faq/Faq1.jsx",
                                             lineNumber: 51,
-                                            columnNumber: 37
+                                            columnNumber: 19
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/Faq/Faq1.jsx",
                                         lineNumber: 50,
-                                        columnNumber: 33
+                                        columnNumber: 17
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/Components/Faq/Faq1.jsx",
-                                lineNumber: 42,
-                                columnNumber: 29
+                                lineNumber: 40,
+                                columnNumber: 15
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/src/app/Components/Faq/Faq1.jsx",
-                            lineNumber: 41,
-                            columnNumber: 25
+                            lineNumber: 39,
+                            columnNumber: 13
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "col-xl-6",
@@ -713,15 +713,15 @@ const Faq1 = ()=>{
                                 className: "faq-thumb",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                        className: "main-thumb  wow fadeInUp",
+                                        className: "main-thumb wow fadeInUp",
                                         src: FaqContent.img1,
                                         alt: "img",
                                         width: 791,
                                         height: 679
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/Faq/Faq1.jsx",
-                                        lineNumber: 74,
-                                        columnNumber: 29
+                                        lineNumber: 106,
+                                        columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "absolute-thumb float-bob-x",
@@ -732,45 +732,45 @@ const Faq1 = ()=>{
                                             height: 474
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/Components/Faq/Faq1.jsx",
-                                            lineNumber: 76,
-                                            columnNumber: 33
+                                            lineNumber: 114,
+                                            columnNumber: 19
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/Faq/Faq1.jsx",
-                                        lineNumber: 75,
-                                        columnNumber: 33
+                                        lineNumber: 113,
+                                        columnNumber: 17
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/Components/Faq/Faq1.jsx",
-                                lineNumber: 73,
-                                columnNumber: 29
+                                lineNumber: 105,
+                                columnNumber: 15
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/src/app/Components/Faq/Faq1.jsx",
-                            lineNumber: 72,
-                            columnNumber: 25
+                            lineNumber: 104,
+                            columnNumber: 13
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/Components/Faq/Faq1.jsx",
-                    lineNumber: 40,
-                    columnNumber: 21
+                    lineNumber: 38,
+                    columnNumber: 11
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/app/Components/Faq/Faq1.jsx",
-                lineNumber: 39,
-                columnNumber: 17
+                lineNumber: 37,
+                columnNumber: 9
             }, this)
         }, void 0, false, {
             fileName: "[project]/src/app/Components/Faq/Faq1.jsx",
-            lineNumber: 38,
-            columnNumber: 13
+            lineNumber: 36,
+            columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/app/Components/Faq/Faq1.jsx",
-        lineNumber: 37,
-        columnNumber: 9
+        lineNumber: 35,
+        columnNumber: 5
     }, this);
 };
 _s(Faq1, "XOxXqNg+2n5fvrU0l10/flZQoHQ=");

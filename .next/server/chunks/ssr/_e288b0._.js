@@ -1035,193 +1035,167 @@ const HowWork = ()=>{
                 className: "container",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "section-title text-center mxw-565 mx-auto",
+                        className: "section-title text-center mxw-565 mx-auto mb-5",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$Common$2f$SectionTitle$2e$jsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                            SubTitle: "How It Work",
-                            Title: "Make Your Device Manage Everything For You!"
+                            SubTitle: "How We Work",
+                            Title: "Our Process to Build ERP & Websites That Empower Your Business"
                         }, void 0, false, {
                             fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
                             lineNumber: 10,
-                            columnNumber: 25
+                            columnNumber: 13
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
                         lineNumber: 9,
-                        columnNumber: 21
+                        columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "work-process-wrapper style1",
+                        className: "row text-center",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "shape",
-                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                    src: "/assets/images/shape/workProcessShape1_1.png",
-                                    alt: "img",
-                                    width: 1416,
-                                    height: 225
-                                }, void 0, false, {
+                                className: "col-md-4 mb-4",
+                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "work-process-box style1 wow fadeInUp",
+                                    "data-wow-delay": ".2s",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "step",
+                                            children: "STEP - 01"
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
+                                            lineNumber: 23,
+                                            columnNumber: 17
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "title",
+                                            children: "Requirement Analysis"
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
+                                            lineNumber: 24,
+                                            columnNumber: 17
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "text",
+                                            children: "We understand your business needs and gather requirements to design the right ERP or website solution."
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
+                                            lineNumber: 25,
+                                            columnNumber: 17
+                                        }, this)
+                                    ]
+                                }, void 0, true, {
                                     fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
-                                    lineNumber: 16,
-                                    columnNumber: 48
+                                    lineNumber: 19,
+                                    columnNumber: 15
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
-                                lineNumber: 16,
-                                columnNumber: 25
+                                lineNumber: 18,
+                                columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "row",
-                                children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "col-xl-4",
-                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "work-process-box style1 wow fadeInUp",
-                                            "data-wow-delay": ".2s",
-                                            children: [
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                    className: "step",
-                                                    children: "STEP - 01"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
-                                                    lineNumber: 20,
-                                                    columnNumber: 37
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                    className: "title",
-                                                    children: "Download App"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
-                                                    lineNumber: 21,
-                                                    columnNumber: 37
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                    className: "text",
-                                                    children: "There are many variations of passages of Lorem"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
-                                                    lineNumber: 22,
-                                                    columnNumber: 37
-                                                }, this)
-                                            ]
-                                        }, void 0, true, {
+                                className: "col-md-4 mb-4",
+                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "work-process-box style1 wow fadeInUp",
+                                    "data-wow-delay": ".4s",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "step",
+                                            children: "STEP - 02"
+                                        }, void 0, false, {
                                             fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
-                                            lineNumber: 19,
-                                            columnNumber: 33
-                                        }, this)
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
-                                        lineNumber: 18,
-                                        columnNumber: 29
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "col-xl-4",
-                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "work-process-box style1 child2 wow fadeInUp",
-                                            "data-wow-delay": ".4s",
-                                            children: [
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                    className: "step",
-                                                    children: "STEP - 02"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
-                                                    lineNumber: 27,
-                                                    columnNumber: 37
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                    className: "title",
-                                                    children: "Create account"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
-                                                    lineNumber: 28,
-                                                    columnNumber: 37
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                    className: "text",
-                                                    children: "There are many variations of passages of Lorem"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
-                                                    lineNumber: 29,
-                                                    columnNumber: 37
-                                                }, this)
-                                            ]
-                                        }, void 0, true, {
+                                            lineNumber: 38,
+                                            columnNumber: 17
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "title",
+                                            children: "Design & Development"
+                                        }, void 0, false, {
                                             fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
-                                            lineNumber: 26,
-                                            columnNumber: 33
-                                        }, this)
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
-                                        lineNumber: 25,
-                                        columnNumber: 29
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "col-xl-4",
-                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "work-process-box style1 wow fadeInUp",
-                                            "data-wow-delay": ".6s",
-                                            children: [
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                    className: "step",
-                                                    children: "STEP - 03"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
-                                                    lineNumber: 34,
-                                                    columnNumber: 37
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                    className: "title",
-                                                    children: "Install App, & Enjoy"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
-                                                    lineNumber: 35,
-                                                    columnNumber: 37
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                    className: "text",
-                                                    children: "There are many variations of passages of Lorem"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
-                                                    lineNumber: 36,
-                                                    columnNumber: 37
-                                                }, this)
-                                            ]
-                                        }, void 0, true, {
+                                            lineNumber: 39,
+                                            columnNumber: 17
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "text",
+                                            children: "Our team builds scalable ERP systems and responsive websites tailored to streamline your operations."
+                                        }, void 0, false, {
                                             fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
-                                            lineNumber: 33,
-                                            columnNumber: 33
+                                            lineNumber: 40,
+                                            columnNumber: 17
                                         }, this)
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
-                                        lineNumber: 32,
-                                        columnNumber: 29
-                                    }, this)
-                                ]
-                            }, void 0, true, {
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
+                                    lineNumber: 34,
+                                    columnNumber: 15
+                                }, this)
+                            }, void 0, false, {
                                 fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
-                                lineNumber: 17,
-                                columnNumber: 25
+                                lineNumber: 33,
+                                columnNumber: 13
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "col-md-4 mb-4",
+                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "work-process-box style1 wow fadeInUp",
+                                    "data-wow-delay": ".6s",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "step",
+                                            children: "STEP - 03"
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
+                                            lineNumber: 53,
+                                            columnNumber: 17
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "title",
+                                            children: "Implementation & Support"
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
+                                            lineNumber: 54,
+                                            columnNumber: 17
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "text",
+                                            children: "We deploy the solution, ensure smooth integration, and provide ongoing support for long-term success."
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
+                                            lineNumber: 55,
+                                            columnNumber: 17
+                                        }, this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
+                                    lineNumber: 49,
+                                    columnNumber: 15
+                                }, this)
+                            }, void 0, false, {
+                                fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
+                                lineNumber: 48,
+                                columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
-                        lineNumber: 15,
-                        columnNumber: 21
+                        lineNumber: 16,
+                        columnNumber: 11
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
                 lineNumber: 8,
-                columnNumber: 17
+                columnNumber: 9
             }, this)
         }, void 0, false, {
             fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
             lineNumber: 7,
-            columnNumber: 13
+            columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/app/Components/HowWork/HowWork.jsx",
         lineNumber: 6,
-        columnNumber: 9
+        columnNumber: 5
     }, this);
 };
 const __TURBOPACK__default__export__ = HowWork;
@@ -1670,8 +1644,8 @@ const Feature1 = ()=>{
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$Card$2f$FeatureCard$2e$jsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                                                 img: "/assets/images/icon/wcuIcon1_1.svg",
-                                                title: "High usability",
-                                                content: "There are many variations of passages of Lorem Ipsum"
+                                                title: "High Usability",
+                                                content: "Our ERP and website solutions are easy to use for all teams."
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/Feature/Feature1.jsx",
                                                 lineNumber: 23,
@@ -1680,7 +1654,7 @@ const Feature1 = ()=>{
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$Card$2f$FeatureCard$2e$jsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                                                 img: "/assets/images/icon/wcuIcon1_2.svg",
                                                 title: "Action Reminder",
-                                                content: "There are many variations of passages of Lorem Ipsum"
+                                                content: "Automate tasks and processes to save time efficiently."
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/Feature/Feature1.jsx",
                                                 lineNumber: 28,
@@ -1689,7 +1663,7 @@ const Feature1 = ()=>{
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$Card$2f$FeatureCard$2e$jsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                                                 img: "/assets/images/icon/wcuIcon1_3.svg",
                                                 title: "Merge Files",
-                                                content: "There are many variations of passages of Lorem Ipsum"
+                                                content: "Manage and integrate your business data seamlessly."
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/Feature/Feature1.jsx",
                                                 lineNumber: 33,
@@ -1765,8 +1739,8 @@ const Feature1 = ()=>{
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$Card$2f$FeatureCard$2e$jsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                                                 img: "/assets/images/icon/wcuIcon1_4.svg",
-                                                title: "Free Live Chat",
-                                                content: "There are many variations of passages of Lorem Ipsum"
+                                                title: "Dedicated Support",
+                                                content: "We provide support for ERP and websites."
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/Feature/Feature1.jsx",
                                                 lineNumber: 65,
@@ -1774,8 +1748,8 @@ const Feature1 = ()=>{
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$Card$2f$FeatureCard$2e$jsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                                                 img: "/assets/images/icon/wcuIcon1_5.svg",
-                                                title: "Social Share",
-                                                content: "There are many variations of passages of Lorem Ipsum"
+                                                title: "Scalable Solutions",
+                                                content: "ERP and web platforms that grow with you."
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/Feature/Feature1.jsx",
                                                 lineNumber: 70,
@@ -1783,8 +1757,8 @@ const Feature1 = ()=>{
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$Card$2f$FeatureCard$2e$jsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                                                 img: "/assets/images/icon/wcuIcon1_6.svg",
-                                                title: "Custom Shortcuts",
-                                                content: "There are many variations of passages of Lorem Ipsum"
+                                                title: "Custom Integrations",
+                                                content: "Integrate ERP with your existing tools."
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/Feature/Feature1.jsx",
                                                 lineNumber: 75,
@@ -3441,7 +3415,7 @@ const Cta2 = ()=>{
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                     className: "wow fadeInUp",
                                     "data-wow-delay": ".3s",
-                                    children: "Join our team to create the best digital solutions."
+                                    children: "Build ERP Solutions & Websites with RC Techbox IT Solutions."
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
                                     lineNumber: 39,
@@ -3450,7 +3424,7 @@ const Cta2 = ()=>{
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "text wow fadeInUp",
                                     "data-wow-delay": ".5s",
-                                    children: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which do not look even slightly believable. If you are going to use There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which do not look even slightly believable. If you are going to use"
+                                    children: "At RC Techbox IT Solutions, we specialize in developing powerful ERP systems and modern, responsive websites tailored to your business needs. Our mission is to deliver efficient, scalable, and user-friendly digital solutions that help organizations streamline their operations and grow faster. Whether you need a customized ERP platform or a professional website, we combine technology and innovation to create results that truly matter."
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
                                     lineNumber: 42,
@@ -3458,75 +3432,71 @@ const Cta2 = ()=>{
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                                     href: "/contact",
-                                    children: [
-                                        " ",
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                            className: "theme-btn wow fadeInUp",
-                                            "data-wow-delay": ".3s",
-                                            children: [
-                                                " ",
-                                                "Join Our Team",
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
-                                                    xmlns: "http://www.w3.org/2000/svg",
-                                                    width: "16",
-                                                    height: "16",
-                                                    viewBox: "0 0 16 16",
-                                                    fill: "none",
-                                                    children: [
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("g", {
-                                                            clipPath: "url(#clip0_199_944)",
-                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                                                                d: "M11.6123 3.61183L10.8996 4.32455L14.0711 7.49604H0.000488281V8.50399H14.0711L10.8996 11.6754L11.6123 12.3882L16.0005 7.99998L11.6123 3.61183Z",
-                                                                fill: "white"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
-                                                                lineNumber: 66,
-                                                                columnNumber: 21
-                                                            }, this)
+                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                        className: "theme-btn wow fadeInUp",
+                                        "data-wow-delay": ".3s",
+                                        children: [
+                                            "Get Started",
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
+                                                xmlns: "http://www.w3.org/2000/svg",
+                                                width: "16",
+                                                height: "16",
+                                                viewBox: "0 0 16 16",
+                                                fill: "none",
+                                                children: [
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("g", {
+                                                        clipPath: "url(#clip0_199_944)",
+                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                                                            d: "M11.6123 3.61183L10.8996 4.32455L14.0711 7.49604H0.000488281V8.50399H14.0711L10.8996 11.6754L11.6123 12.3882L16.0005 7.99998L11.6123 3.61183Z",
+                                                            fill: "white"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
-                                                            lineNumber: 65,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("defs", {
-                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("clipPath", {
-                                                                id: "clip0_199_944",
-                                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("rect", {
-                                                                    width: "16",
-                                                                    height: "16",
-                                                                    fill: "white",
-                                                                    transform: "translate(0.000488281)"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
-                                                                    lineNumber: 73,
-                                                                    columnNumber: 23
-                                                                }, this)
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
-                                                                lineNumber: 72,
-                                                                columnNumber: 21
-                                                            }, this)
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
-                                                            lineNumber: 71,
-                                                            columnNumber: 19
+                                                            lineNumber: 63,
+                                                            columnNumber: 21
                                                         }, this)
-                                                    ]
-                                                }, void 0, true, {
-                                                    fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
-                                                    lineNumber: 58,
-                                                    columnNumber: 17
-                                                }, this)
-                                            ]
-                                        }, void 0, true, {
-                                            fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
-                                            lineNumber: 55,
-                                            columnNumber: 15
-                                        }, this)
-                                    ]
-                                }, void 0, true, {
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
+                                                        lineNumber: 62,
+                                                        columnNumber: 19
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("defs", {
+                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("clipPath", {
+                                                            id: "clip0_199_944",
+                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("rect", {
+                                                                width: "16",
+                                                                height: "16",
+                                                                fill: "white",
+                                                                transform: "translate(0.000488281)"
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
+                                                                lineNumber: 70,
+                                                                columnNumber: 23
+                                                            }, this)
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
+                                                            lineNumber: 69,
+                                                            columnNumber: 21
+                                                        }, this)
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
+                                                        lineNumber: 68,
+                                                        columnNumber: 19
+                                                    }, this)
+                                                ]
+                                            }, void 0, true, {
+                                                fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
+                                                lineNumber: 55,
+                                                columnNumber: 17
+                                            }, this)
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
+                                        lineNumber: 53,
+                                        columnNumber: 15
+                                    }, this)
+                                }, void 0, false, {
                                     fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
-                                    lineNumber: 53,
+                                    lineNumber: 52,
                                     columnNumber: 13
                                 }, this)
                             ]
@@ -3559,7 +3529,7 @@ const __TURBOPACK__default__export__ = Cta2;
 
 var { r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, b: __turbopack_worker_blob_url__, g: global, __dirname, t: __turbopack_require_real__ } = __turbopack_context__;
 {
-__turbopack_export_value__(JSON.parse("[{\"icon\":\"/assets/images/icon/serviceIcon3_1.svg\",\"title\":\"Website Design\",\"desc\":\"Custom, responsive websites designed to showcase your brand and deliver an engaging user experience across all devices.\"},{\"icon\":\"/assets/images/icon/serviceIcon3_2.svg\",\"title\":\"E-Commerce Solutions\",\"desc\":\"Powerful online stores built with Shopify, WooCommerce, or custom platforms to help you sell more and grow your business.\"},{\"icon\":\"/assets/images/icon/serviceIcon3_3.svg\",\"title\":\"Mobile App Development\",\"desc\":\"iOS, Android, and cross-platform mobile apps tailored to your needs, providing seamless performance and scalability.\"},{\"icon\":\"/assets/images/icon/serviceIcon3_5.svg\",\"title\":\"Branding & UI/UX Design\",\"desc\":\"Clean, modern interfaces with intuitive navigation that reflect your brand identity and keep users engaged.\"},{\"icon\":\"/assets/images/icon/serviceIcon3_5.svg\",\"title\":\"Modern Code & Scalability\",\"desc\":\"Built with the latest technologies to ensure fast, secure, and scalable digital solutions that grow with your business.\"},{\"icon\":\"/assets/images/icon/serviceIcon3_6.svg\",\"title\":\"Interactive Experiences\",\"desc\":\"User-focused, interactive websites and apps that not only look stunning but also convert visitors into loyal customers.\"}]"));}}),
+__turbopack_export_value__(JSON.parse("[{\"icon\":\"/assets/images/icon/serviceIcon3_1.svg\",\"title\":\"Website Design & Development\",\"desc\":\"Professional, responsive websites built to represent your brand and deliver a seamless user experience across all devices.\"},{\"icon\":\"/assets/images/icon/serviceIcon3_2.svg\",\"title\":\"ERP Solutions\",\"desc\":\"Custom ERP systems designed to streamline your business operations, improve efficiency, and support scalable growth.\"},{\"icon\":\"/assets/images/icon/serviceIcon3_3.svg\",\"title\":\"Mobile App Development\",\"desc\":\"Cross-platform mobile apps for Android and iOS that integrate with your ERP and business processes for maximum efficiency.\"},{\"icon\":\"/assets/images/icon/serviceIcon3_5.svg\",\"title\":\"Branding & UI/UX Design\",\"desc\":\"Modern, intuitive interfaces that reflect your brand identity and create engaging user experiences for web and ERP platforms.\"},{\"icon\":\"/assets/images/icon/serviceIcon3_5.svg\",\"title\":\"Scalable Digital Solutions\",\"desc\":\"Developed with the latest technologies to ensure fast, secure, and scalable ERP and web applications that grow with your business.\"},{\"icon\":\"/assets/images/icon/serviceIcon3_6.svg\",\"title\":\"Interactive Experiences\",\"desc\":\"User-focused ERP dashboards and websites that combine functionality with great design to boost engagement and productivity.\"}]"));}}),
 "[project]/src/app/Components/Services/Services1.jsx [app-rsc] (ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
@@ -3760,7 +3730,7 @@ const page = ()=>{
                 content: "At RC TechBox, we help businesses grow online with cutting-edge digital solutions. From custom websites and online stores to mobile apps, our team creates powerful digital experiences designed to engage customers and deliver measurable results. Our mission is simple: to empower brands with technology that drives growth and innovation.",
                 FeatureList: [
                     "Custom website design with responsive layouts.",
-                    "E-Commerce solutions using Shopify, WooCommerce & custom builds.",
+                    "ERP solutions and websites building ERP.",
                     "Mobile apps for iOS, Android & cross-platform development."
                 ],
                 btnname: "Discover More",
@@ -3788,7 +3758,7 @@ const page = ()=>{
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$Choose$2f$Choose1$2e$jsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                 subtitle: "App Advantage",
                 title: "Get Benefit By Using Trending Apps",
-                content: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly",
+                content: "At RC Techbox IT Solution, we specialize in building powerful ERP systems and modern websites tailored to your business needs. Our solutions streamline operations, enhance productivity, and ensure a strong digital presence.",
                 FeatureList: [
                     "Friendly Design",
                     "SEO Optimized"
@@ -3806,32 +3776,32 @@ const page = ()=>{
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$Feature$2f$Feature1$2e$jsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                 fileName: "[project]/src/app/(home1)/page.jsx",
-                lineNumber: 63,
+                lineNumber: 64,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$Counter$2f$Counter1$2e$jsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                 fileName: "[project]/src/app/(home1)/page.jsx",
-                lineNumber: 64,
+                lineNumber: 65,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$Faq$2f$Faq1$2e$jsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                 fileName: "[project]/src/app/(home1)/page.jsx",
-                lineNumber: 65,
+                lineNumber: 66,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$Testimonial$2f$Testimonial$2e$jsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                 fileName: "[project]/src/app/(home1)/page.jsx",
-                lineNumber: 66,
+                lineNumber: 67,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$Feature$2f$Feature2$2e$jsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                 fileName: "[project]/src/app/(home1)/page.jsx",
-                lineNumber: 67,
+                lineNumber: 68,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$Pricing$2f$Pricing1$2e$jsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                 fileName: "[project]/src/app/(home1)/page.jsx",
-                lineNumber: 68,
+                lineNumber: 69,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$Cta$2f$Cta1$2e$jsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
@@ -3843,12 +3813,12 @@ const page = ()=>{
                 img: "/assets/images/cta/ctaThumb1_1.webp"
             }, void 0, false, {
                 fileName: "[project]/src/app/(home1)/page.jsx",
-                lineNumber: 69,
+                lineNumber: 70,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$Blog$2f$Blog1$2e$jsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                 fileName: "[project]/src/app/(home1)/page.jsx",
-                lineNumber: 77,
+                lineNumber: 78,
                 columnNumber: 7
             }, this)
         ]

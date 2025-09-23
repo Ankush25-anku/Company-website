@@ -42,7 +42,7 @@ const page = () => {
         content="At RC TechBox, we help businesses grow online with cutting-edge digital solutions. From custom websites and online stores to mobile apps, our team creates powerful digital experiences designed to engage customers and deliver measurable results. Our mission is simple: to empower brands with technology that drives growth and innovation."
         FeatureList={[
           "Custom website design with responsive layouts.",
-          "E-Commerce solutions using Shopify, WooCommerce & custom builds.",
+          "ERP solutions and websites building ERP.",
           "Mobile apps for iOS, Android & cross-platform development.",
         ]}
         btnname="Discover More"
@@ -54,12 +54,13 @@ const page = () => {
       <Choose1
         subtitle="App Advantage"
         title="Get Benefit By Using Trending Apps"
-        content="There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly"
+        content="At RC Techbox IT Solution, we specialize in building powerful ERP systems and modern websites tailored to your business needs. Our solutions streamline operations, enhance productivity, and ensure a strong digital presence."
         FeatureList={["Friendly Design", "SEO Optimized"]}
         FeatureList2={["Cloud Storage", "Strong Security"]}
         btnname="Download App"
         btnurl="/about"
-      ></Choose1>
+      />
+
       <Feature1></Feature1>
       <Counter1></Counter1>
       <Faq1></Faq1>
@@ -68,12 +69,13 @@ const page = () => {
       <Pricing1></Pricing1>
       <Cta1
         subtitle="Our App"
-        title="Download our app and start your free trail to get started today!"
-        content="There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised"
+        title="Get the RC Techbox ERP & Website App Today!"
+        content="Streamline your business operations with our ERP and website solutions. Start your free trial and see the difference it makes."
         btnurl1="https://play.google.com/store"
         btnurl2="https://www.apple.com/store"
         img="/assets/images/cta/ctaThumb1_1.webp"
-      ></Cta1>
+      />
+
       <Blog1></Blog1>
     </div>
   );

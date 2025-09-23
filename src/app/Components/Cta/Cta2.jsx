@@ -37,24 +37,21 @@ const Cta2 = () => {
         <div className="container">
           <div className="service-wrapper style3">
             <h2 className="wow fadeInUp" data-wow-delay=".3s">
-              Join our team to create the best digital solutions.
+              Build ERP Solutions & Websites with RC Techbox IT Solutions.
             </h2>
             <p className="text wow fadeInUp" data-wow-delay=".5s">
-              There are many variations of passages of Lorem Ipsum available,
-              but the majority have suffered alteration in some form, by
-              injected humour, or randomised words which do not look even
-              slightly believable. If you are going to use There are many
-              variations of passages of Lorem Ipsum available, but the majority
-              have suffered alteration in some form, by injected humour, or
-              randomised words which do not look even slightly believable. If
-              you are going to use
+              At RC Techbox IT Solutions, we specialize in developing powerful
+              ERP systems and modern, responsive websites tailored to your
+              business needs. Our mission is to deliver efficient, scalable, and
+              user-friendly digital solutions that help organizations streamline
+              their operations and grow faster. Whether you need a customized
+              ERP platform or a professional website, we combine technology and
+              innovation to create results that truly matter.
             </p>
 
             <Link href="/contact">
-              {" "}
               <span className="theme-btn wow fadeInUp" data-wow-delay=".3s">
-                {" "}
-                Join Our Team
+                Get Started
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="16"
