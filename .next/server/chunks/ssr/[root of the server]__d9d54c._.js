@@ -83,14 +83,14 @@ var __TURBOPACK__imported__module__$5b$next$5d2f$internal$2f$font$2f$google$2f$n
 ;
 const metadata = {
     title: {
-        absolute: '',
-        default: 'Niotech - Saas & App Landing Page NextJS Template',
-        template: '%s | Niotech - Saas & App Landing Page NextJS Template'
+        absolute: "",
+        default: "RC Techbox - Smart School ERP Solution",
+        template: "%s | RC Techbox - Smart School ERP Solution"
     },
-    description: 'Niotech - Saas & App Landing Page NextJS Template',
+    description: "RC Techbox offers a complete School ERP system to simplify administration, manage academics, streamline communication, and enhance student learning experience.",
     openGraph: {
-        title: 'Niotech - Saas & App Landing Page NextJS Template',
-        description: 'Niotech - Saas & App Landing Page NextJS Template'
+        title: "RC Techbox - Smart School ERP Solution",
+        description: "RC Techbox School ERP helps schools manage students, teachers, fees, attendance, exams, and communication in one powerful platform."
     }
 };
 function RootLayout({ children }) {
@@ -104,7 +104,7 @@ function RootLayout({ children }) {
                         content: "Themeservices"
                     }, void 0, false, {
                         fileName: "[project]/src/app/layout.js",
-                        lineNumber: 35,
+                        lineNumber: 37,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("link", {
@@ -113,13 +113,13 @@ function RootLayout({ children }) {
                         sizes: "any"
                     }, void 0, false, {
                         fileName: "[project]/src/app/layout.js",
-                        lineNumber: 36,
+                        lineNumber: 38,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/layout.js",
-                lineNumber: 34,
+                lineNumber: 36,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("body", {
@@ -127,13 +127,13 @@ function RootLayout({ children }) {
                 children: children
             }, void 0, false, {
                 fileName: "[project]/src/app/layout.js",
-                lineNumber: 38,
+                lineNumber: 40,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/layout.js",
-        lineNumber: 33,
+        lineNumber: 35,
         columnNumber: 5
     }, this);
 }

@@ -1,30 +1,32 @@
 import { Urbanist, Nunito } from "next/font/google";
-import 'bootstrap/dist/css/bootstrap.min.css';
-import 'bootstrap-icons/font/bootstrap-icons.css';
+import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap-icons/font/bootstrap-icons.css";
 import "slick-carousel/slick/slick.css";
 import "./assets/main.css";
 
 const urbanist = Urbanist({
-  subsets: ['latin'],
-  weight: ['400', '500', '600', '700', '800', '900'],
-  variable: '--body-color-font',
+  subsets: ["latin"],
+  weight: ["400", "500", "600", "700", "800", "900"],
+  variable: "--body-color-font",
 });
 const nunito = Nunito({
-  subsets: ['latin'],
-  weight: ['400', '500', '600', '700', '800', '900'],
-  variable: '--heading-font',
+  subsets: ["latin"],
+  weight: ["400", "500", "600", "700", "800", "900"],
+  variable: "--heading-font",
 });
 
 export const metadata = {
   title: {
-    absolute: '',
-    default: 'Niotech - Saas & App Landing Page NextJS Template',
-    template: '%s | Niotech - Saas & App Landing Page NextJS Template',
+    absolute: "",
+    default: "RC Techbox - Smart School ERP Solution",
+    template: "%s | RC Techbox - Smart School ERP Solution",
   },
-  description: 'Niotech - Saas & App Landing Page NextJS Template',
+  description:
+    "RC Techbox offers a complete School ERP system to simplify administration, manage academics, streamline communication, and enhance student learning experience.",
   openGraph: {
-    title: 'Niotech - Saas & App Landing Page NextJS Template',
-    description: 'Niotech - Saas & App Landing Page NextJS Template',
+    title: "RC Techbox - Smart School ERP Solution",
+    description:
+      "RC Techbox School ERP helps schools manage students, teachers, fees, attendance, exams, and communication in one powerful platform.",
   },
 };
 

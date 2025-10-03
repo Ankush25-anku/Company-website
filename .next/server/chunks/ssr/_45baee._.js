@@ -1446,7 +1446,7 @@ const Blog1 = ()=>{
                                 className: "subtitle wow fadeInUp",
                                 "data-wow-delay": ".2s",
                                 children: [
-                                    "School ERP Blog",
+                                    "RC Techbox Blog",
                                     " ",
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                                         src: "/assets/images/icon/fireIcon.svg",
@@ -1467,7 +1467,7 @@ const Blog1 = ()=>{
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                 className: "title wow fadeInUp",
                                 "data-wow-delay": ".4s",
-                                children: "Insights, Updates, and Best Practices for Modern Schools"
+                                children: "Latest Insights on ERP & Website Solutions for Businesses"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/Components/Blog/Blog1.jsx",
                                 lineNumber: 19,
@@ -1521,7 +1521,7 @@ const Blog1 = ()=>{
                                                             lineNumber: 39,
                                                             columnNumber: 21
                                                         }, this),
-                                                        "School Management"
+                                                        "ERP Solutions"
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/Components/Blog/Blog1.jsx",
@@ -1531,7 +1531,7 @@ const Blog1 = ()=>{
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                                                         href: "/blog/blog-details",
-                                                        children: "How ERP Simplifies Attendance & Exam Management"
+                                                        children: "How ERP Boosts Efficiency in Businesses"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/Components/Blog/Blog1.jsx",
                                                         lineNumber: 48,
@@ -1567,7 +1567,7 @@ const Blog1 = ()=>{
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                     className: "text",
-                                                                    children: "By Admin"
+                                                                    children: "By RC Techbox"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/Components/Blog/Blog1.jsx",
                                                                     lineNumber: 62,
@@ -1601,7 +1601,7 @@ const Blog1 = ()=>{
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                     className: "text",
-                                                                    children: "Sep 30, 2024"
+                                                                    children: "Sep 30, 2025"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/Components/Blog/Blog1.jsx",
                                                                     lineNumber: 73,
@@ -1675,7 +1675,7 @@ const Blog1 = ()=>{
                                                             lineNumber: 95,
                                                             columnNumber: 21
                                                         }, this),
-                                                        "Digital Learning"
+                                                        "Website Development"
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/Components/Blog/Blog1.jsx",
@@ -1685,7 +1685,7 @@ const Blog1 = ()=>{
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                                                         href: "/blog/blog-details",
-                                                        children: "Benefits of Online Portals for Parents & Students"
+                                                        children: "Why a Modern Website is Essential for Business Growth"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/Components/Blog/Blog1.jsx",
                                                         lineNumber: 104,
@@ -1721,7 +1721,7 @@ const Blog1 = ()=>{
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                     className: "text",
-                                                                    children: "By Admin"
+                                                                    children: "By RC Techbox"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/Components/Blog/Blog1.jsx",
                                                                     lineNumber: 118,
@@ -1755,7 +1755,7 @@ const Blog1 = ()=>{
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                     className: "text",
-                                                                    children: "Sep 30, 2024"
+                                                                    children: "Oct 05, 2025"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/Components/Blog/Blog1.jsx",
                                                                     lineNumber: 129,
@@ -1829,7 +1829,7 @@ const Blog1 = ()=>{
                                                             lineNumber: 151,
                                                             columnNumber: 21
                                                         }, this),
-                                                        "Education Technology"
+                                                        "ERP & Web Tips"
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/Components/Blog/Blog1.jsx",
@@ -1839,7 +1839,7 @@ const Blog1 = ()=>{
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                                                         href: "/blog/blog-details",
-                                                        children: "Why Every School Needs an Integrated ERP Solution"
+                                                        children: "Top Tips for ERP Implementation"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/Components/Blog/Blog1.jsx",
                                                         lineNumber: 160,
@@ -1875,7 +1875,7 @@ const Blog1 = ()=>{
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                     className: "text",
-                                                                    children: "By Admin"
+                                                                    children: "By RC Techbox"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/Components/Blog/Blog1.jsx",
                                                                     lineNumber: 174,
@@ -1909,7 +1909,7 @@ const Blog1 = ()=>{
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                     className: "text",
-                                                                    children: "Oct 05, 2024"
+                                                                    children: "Oct 10, 2025"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/Components/Blog/Blog1.jsx",
                                                                     lineNumber: 185,
