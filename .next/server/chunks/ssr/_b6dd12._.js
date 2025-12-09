@@ -100,10 +100,18 @@ const Cta2 = ()=>{
                     className: "service-thumb section-padding pb-0 img-custom-anim-left wow fadeInLeft",
                     "data-wow-delay": ".3s",
                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                        src: "/assets/images/services/service1.jpg",
+                        src: "/assets/images/services/services15 (3).jpg",
                         alt: "img",
                         width: 1170,
-                        height: 526
+                        height: 526,
+                        quality: 100,
+                        priority: true,
+                        style: {
+                            width: "100%",
+                            height: "auto",
+                            objectFit: "cover",
+                            borderRadius: "12px"
+                        }
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
                         lineNumber: 12,
@@ -131,12 +139,12 @@ const Cta2 = ()=>{
                             height: 1031
                         }, void 0, false, {
                             fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
-                            lineNumber: 22,
+                            lineNumber: 30,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
-                        lineNumber: 21,
+                        lineNumber: 29,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -148,12 +156,12 @@ const Cta2 = ()=>{
                             height: 1074
                         }, void 0, false, {
                             fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
-                            lineNumber: 30,
+                            lineNumber: 38,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
-                        lineNumber: 29,
+                        lineNumber: 37,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -167,7 +175,7 @@ const Cta2 = ()=>{
                                     children: "Build ERP Solutions & Websites with RC Techbox IT Services."
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
-                                    lineNumber: 39,
+                                    lineNumber: 47,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -176,7 +184,7 @@ const Cta2 = ()=>{
                                     children: "At RC Techbox IT Services we specialize in developing powerful ERP systems and modern, responsive websites tailored to your business needs. Our mission is to deliver efficient, scalable, and user-friendly digital solutions that help organizations streamline their operations and grow faster. Whether you need a customized ERP platform or a professional website, we combine technology and innovation to create results that truly matter."
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
-                                    lineNumber: 42,
+                                    lineNumber: 50,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
@@ -200,12 +208,12 @@ const Cta2 = ()=>{
                                                             fill: "white"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
-                                                            lineNumber: 63,
+                                                            lineNumber: 71,
                                                             columnNumber: 21
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
-                                                        lineNumber: 62,
+                                                        lineNumber: 70,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("defs", {
@@ -218,51 +226,51 @@ const Cta2 = ()=>{
                                                                 transform: "translate(0.000488281)"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
-                                                                lineNumber: 70,
+                                                                lineNumber: 78,
                                                                 columnNumber: 23
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
-                                                            lineNumber: 69,
+                                                            lineNumber: 77,
                                                             columnNumber: 21
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
-                                                        lineNumber: 68,
+                                                        lineNumber: 76,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
-                                                lineNumber: 55,
+                                                lineNumber: 63,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
-                                        lineNumber: 53,
+                                        lineNumber: 61,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
-                                    lineNumber: 52,
+                                    lineNumber: 60,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
-                            lineNumber: 38,
+                            lineNumber: 46,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
-                        lineNumber: 37,
+                        lineNumber: 45,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/Components/Cta/Cta2.jsx",
-                lineNumber: 20,
+                lineNumber: 28,
                 columnNumber: 7
             }, this)
         ]

@@ -70,22 +70,22 @@ const ServiceDetails = ()=>{
                                 height: 646
                             }, void 0, false, {
                                 fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                lineNumber: 10,
-                                columnNumber: 21
+                                lineNumber: 14,
+                                columnNumber: 15
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                            lineNumber: 9,
-                            columnNumber: 21
+                            lineNumber: 10,
+                            columnNumber: 13
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                             className: "title wow fadeInUp",
                             "data-wow-delay": ".3s",
-                            children: "World best web design service provider."
+                            children: "Leading ERP, Web & Mobile App Development Company"
                         }, void 0, false, {
                             fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                            lineNumber: 12,
-                            columnNumber: 21
+                            lineNumber: 23,
+                            columnNumber: 13
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "tagcloud",
@@ -94,67 +94,67 @@ const ServiceDetails = ()=>{
                                     className: "tag",
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                         href: "#",
-                                        children: "Creative"
+                                        children: "ERP Solutions"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                        lineNumber: 15,
-                                        columnNumber: 29
+                                        lineNumber: 30,
+                                        columnNumber: 17
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                    lineNumber: 14,
-                                    columnNumber: 25
+                                    lineNumber: 29,
+                                    columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "tag",
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                         href: "#",
-                                        children: "Branding"
+                                        children: "Web Development"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                        lineNumber: 18,
-                                        columnNumber: 29
+                                        lineNumber: 33,
+                                        columnNumber: 17
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                    lineNumber: 17,
-                                    columnNumber: 25
+                                    lineNumber: 32,
+                                    columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "tag",
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                         href: "#",
-                                        children: "Analytics"
+                                        children: "Business Automation"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                        lineNumber: 21,
-                                        columnNumber: 29
+                                        lineNumber: 36,
+                                        columnNumber: 17
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                    lineNumber: 20,
-                                    columnNumber: 25
+                                    lineNumber: 35,
+                                    columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "tag",
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                         href: "#",
-                                        children: "Audience"
+                                        children: "Digital Transformation"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                        lineNumber: 24,
-                                        columnNumber: 29
+                                        lineNumber: 39,
+                                        columnNumber: 17
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                    lineNumber: 23,
-                                    columnNumber: 25
+                                    lineNumber: 38,
+                                    columnNumber: 15
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                            lineNumber: 13,
-                            columnNumber: 21
+                            lineNumber: 28,
+                            columnNumber: 13
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "details-box1",
@@ -165,8 +165,8 @@ const ServiceDetails = ()=>{
                                     children: "Service Overview"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                    lineNumber: 28,
-                                    columnNumber: 25
+                                    lineNumber: 45,
+                                    columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "row gy-3",
@@ -176,44 +176,44 @@ const ServiceDetails = ()=>{
                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                 className: "text wow fadeInUp",
                                                 "data-wow-delay": ".3s",
-                                                children: "Nam posuere mauris enim, quis pretium elit placerat id Fusce egestas nisi vel ipsum vehicula facilisis In pulvinar imperdiet venenatis className aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec eu pulvinar lorem. Etiam vestibulum ligula quis nisl feugiat, consectetur placerat augue vestibulum Nulla aliquam elit eu diam pharetra."
+                                                children: "RC ERP TECHNOLOGIES PVT LTD specializes in creating robust ERP platforms, modern web applications, and custom digital solutions tailored to your business needs. Our systems are designed to streamline operations, enhance workflow efficiency, and support data-driven decision-making. We work closely with organizations across industries to build scalable, secure, and high-performance digital solutions."
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                                lineNumber: 33,
-                                                columnNumber: 33
+                                                lineNumber: 51,
+                                                columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                            lineNumber: 32,
-                                            columnNumber: 29
+                                            lineNumber: 50,
+                                            columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                             className: "col-xl-5",
                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                 className: "text wow fadeInUp",
                                                 "data-wow-delay": ".5s",
-                                                children: "Fusce egestas nisi vel ipsum vehicula facilisis. In pulvinar imperdiet venenatis. className aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec eu pulvinar lorem. Etiam vestibulum ligula quis nisl feugiat, consectetur placerat augue vestibulum."
+                                                children: "Whether you're looking to automate business processes, develop a custom CRM, or build a responsive website or mobile app, our experienced development team ensures seamless implementation and future-ready technology solutions that help your business grow faster."
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                                lineNumber: 41,
-                                                columnNumber: 33
+                                                lineNumber: 63,
+                                                columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                            lineNumber: 40,
-                                            columnNumber: 29
+                                            lineNumber: 62,
+                                            columnNumber: 17
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                    lineNumber: 31,
-                                    columnNumber: 25
+                                    lineNumber: 49,
+                                    columnNumber: 15
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                            lineNumber: 27,
-                            columnNumber: 21
+                            lineNumber: 44,
+                            columnNumber: 13
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "details-box2",
@@ -224,8 +224,8 @@ const ServiceDetails = ()=>{
                                     children: "Benefits With Our Service"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                    lineNumber: 50,
-                                    columnNumber: 25
+                                    lineNumber: 76,
+                                    columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "row gy-3",
@@ -240,72 +240,72 @@ const ServiceDetails = ()=>{
                                                         className: "feature",
                                                         children: [
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                                children: "consectetur placerat augue vestibulum"
+                                                                children: "Custom-built ERP systems tailored for your business"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                                                lineNumber: 57,
-                                                                columnNumber: 41
+                                                                lineNumber: 87,
+                                                                columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                                children: "Mauris tincidunt a eget facilisis Quisque"
+                                                                children: "Enhanced workflow automation & business optimization"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                                                lineNumber: 58,
-                                                                columnNumber: 41
+                                                                lineNumber: 90,
+                                                                columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                                children: "Lorem ipsum dolor sit amet, consectetur"
+                                                                children: "Fast, secure, and scalable digital platforms"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                                                lineNumber: 59,
-                                                                columnNumber: 41
+                                                                lineNumber: 93,
+                                                                columnNumber: 23
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                                        lineNumber: 56,
-                                                        columnNumber: 37
+                                                        lineNumber: 86,
+                                                        columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
                                                         className: "feature",
                                                         children: [
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                                children: "adipiscing elit Etiam aliquam, enim vitae"
+                                                                children: "Modern UI/UX for websites & mobile apps"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                                                lineNumber: 62,
-                                                                columnNumber: 41
+                                                                lineNumber: 97,
+                                                                columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                                children: "Donec at augue ante Nam posuere mauris"
+                                                                children: "Improved operational efficiency across departments"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                                                lineNumber: 63,
-                                                                columnNumber: 41
+                                                                lineNumber: 98,
+                                                                columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                                children: "quis pretium elit placerat id Fusce egestas"
+                                                                children: "Advanced reporting & real-time business insights"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                                                lineNumber: 64,
-                                                                columnNumber: 41
+                                                                lineNumber: 101,
+                                                                columnNumber: 23
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                                        lineNumber: 61,
-                                                        columnNumber: 37
+                                                        lineNumber: 96,
+                                                        columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                                lineNumber: 55,
-                                                columnNumber: 33
+                                                lineNumber: 82,
+                                                columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                            lineNumber: 54,
-                                            columnNumber: 29
+                                            lineNumber: 81,
+                                            columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                             className: "col-xl-6",
@@ -318,25 +318,25 @@ const ServiceDetails = ()=>{
                                                             children: [
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                     className: "title",
-                                                                    children: "Branding Design"
+                                                                    children: "ERP Development"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                                                    lineNumber: 72,
-                                                                    columnNumber: 41
+                                                                    lineNumber: 110,
+                                                                    columnNumber: 23
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                     className: "percentage",
                                                                     children: "95%"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                                                    lineNumber: 73,
-                                                                    columnNumber: 41
+                                                                    lineNumber: 111,
+                                                                    columnNumber: 23
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                                            lineNumber: 71,
-                                                            columnNumber: 37
+                                                            lineNumber: 109,
+                                                            columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                             className: "progress-container",
@@ -344,19 +344,19 @@ const ServiceDetails = ()=>{
                                                                 className: "progress-bar"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                                                lineNumber: 76,
-                                                                columnNumber: 41
+                                                                lineNumber: 114,
+                                                                columnNumber: 23
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                                            lineNumber: 75,
-                                                            columnNumber: 37
+                                                            lineNumber: 113,
+                                                            columnNumber: 21
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                                    lineNumber: 70,
-                                                    columnNumber: 33
+                                                    lineNumber: 108,
+                                                    columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                     className: "progress-wrap mb-0",
@@ -366,25 +366,25 @@ const ServiceDetails = ()=>{
                                                             children: [
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                     className: "title",
-                                                                    children: "Business"
+                                                                    children: "Business Automation"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                                                    lineNumber: 83,
-                                                                    columnNumber: 41
+                                                                    lineNumber: 120,
+                                                                    columnNumber: 23
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                     className: "percentage",
                                                                     children: "95%"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                                                    lineNumber: 84,
-                                                                    columnNumber: 41
+                                                                    lineNumber: 121,
+                                                                    columnNumber: 23
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                                            lineNumber: 82,
-                                                            columnNumber: 37
+                                                            lineNumber: 119,
+                                                            columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                             className: "progress-container",
@@ -392,31 +392,31 @@ const ServiceDetails = ()=>{
                                                                 className: "progress-bar"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                                                lineNumber: 87,
-                                                                columnNumber: 41
+                                                                lineNumber: 124,
+                                                                columnNumber: 23
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                                            lineNumber: 86,
-                                                            columnNumber: 37
+                                                            lineNumber: 123,
+                                                            columnNumber: 21
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                                    lineNumber: 81,
-                                                    columnNumber: 33
+                                                    lineNumber: 118,
+                                                    columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                            lineNumber: 69,
-                                            columnNumber: 29
+                                            lineNumber: 107,
+                                            columnNumber: 17
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                    lineNumber: 53,
-                                    columnNumber: 25
+                                    lineNumber: 80,
+                                    columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "thumb-wrapper",
@@ -435,23 +435,23 @@ const ServiceDetails = ()=>{
                                                         height: 328
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                                        lineNumber: 98,
-                                                        columnNumber: 37
+                                                        lineNumber: 138,
+                                                        columnNumber: 23
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                                    lineNumber: 97,
-                                                    columnNumber: 37
+                                                    lineNumber: 134,
+                                                    columnNumber: 21
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                                lineNumber: 96,
-                                                columnNumber: 33
+                                                lineNumber: 133,
+                                                columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                 className: "col-xl-6",
                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                    className: "thumb  img-custom-anim-left wow fadeInUp",
+                                                    className: "thumb img-custom-anim-left wow fadeInUp",
                                                     "data-wow-delay": ".3s",
                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                                                         src: "/assets/images/services/servicesDetailsThumb1_3.jpg",
@@ -460,74 +460,74 @@ const ServiceDetails = ()=>{
                                                         height: 328
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                                        lineNumber: 103,
-                                                        columnNumber: 37
+                                                        lineNumber: 152,
+                                                        columnNumber: 23
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                                    lineNumber: 102,
-                                                    columnNumber: 37
+                                                    lineNumber: 148,
+                                                    columnNumber: 21
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                                lineNumber: 101,
-                                                columnNumber: 33
+                                                lineNumber: 147,
+                                                columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                        lineNumber: 95,
-                                        columnNumber: 29
+                                        lineNumber: 132,
+                                        columnNumber: 17
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                    lineNumber: 94,
-                                    columnNumber: 25
+                                    lineNumber: 131,
+                                    columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "text1 wow fadeInUp",
                                     "data-wow-delay": ".3s",
-                                    children: "Nam posuere mauris enim, quis pretium elit placerat id Fusce egestas nisi vel ipsum vehicula facilisis In pulvinar imperdiet venenatis className aptent taciti sociosqu ad litora torent per conubia nostra, per inceptos himenaeos. Donec eu pulvinar lorem. Etiam vestibulum ligula quis nisl feugiat, consectetur placerat augue vestibulum Nulla aliquam elit eu diam pharetra.Nam posuere mauris enim, quis pretium elit placerat id Fusce egestas nisi vel ipsum vehicula facilis"
+                                    children: "At RC ERP TECHNOLOGIES PVT LTD, we deliver advanced ERP systems designed to simplify complex business processes. Our platforms help companies manage sales, finance, HR, inventory, attendance, reporting, and workflow automation with ease. We ensure smooth integration, scalability, and long-term reliability for enterprises of all sizes."
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                    lineNumber: 108,
-                                    columnNumber: 25
+                                    lineNumber: 164,
+                                    columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "text2 wow fadeInUp",
                                     "data-wow-delay": ".5s",
-                                    children: "Nam posuere mauris enim, quis pretium elit placerat id Fusce egestas nisi vel ipsum vehicula facilisis In pulvinar imperdiet venenatis className aptent taciti sociosqu ad litora torent per conubia nostra, per inceptos himenaeos. Donec eu pulvinar lorem. Etiam vestibulum ligula quis nisl feugiat,"
+                                    children: "With a dedicated team of experienced developers, designers, and consultants, we build digital solutions that empower businesses to grow faster, operate efficiently, and stay ahead in a competitive marketplace."
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                                    lineNumber: 116,
-                                    columnNumber: 25
+                                    lineNumber: 173,
+                                    columnNumber: 15
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
-                            lineNumber: 49,
-                            columnNumber: 21
+                            lineNumber: 75,
+                            columnNumber: 13
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
                     lineNumber: 8,
-                    columnNumber: 17
+                    columnNumber: 11
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
                 lineNumber: 7,
-                columnNumber: 13
+                columnNumber: 9
             }, this)
         }, void 0, false, {
             fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
             lineNumber: 6,
-            columnNumber: 9
+            columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/app/Components/ServiceDetails/ServiceDetails.jsx",
         lineNumber: 5,
-        columnNumber: 9
+        columnNumber: 5
     }, this);
 };
 const __TURBOPACK__default__export__ = ServiceDetails;

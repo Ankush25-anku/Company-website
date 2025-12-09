@@ -6,9 +6,10 @@ import ProjectDetails3 from "@/app/Components/ProjectDetails3/ProjectDetails3";
 import ProjectDetails4 from "@/app/Components/ProjectDetails4/ProjectDetails4";
 import ProjectDetails5 from "@/app/Components/ProjectDetails5/ProjectDetails5";
 import ProjectDetails6 from "@/app/Components/ProjectDetails6/Projectdetails6";
+import ProjectDetails8 from "@/app/Components/ProjectDetails8/Projectdetails8";
 
-export default function ProjectPage({ params }) {
-  const { detailsPage } = params; // ✅ comes from URL
+export default async function ProjectPage({ params }) {
+  const { detailsPage } = await params; // ✅ FIX THAT REMOVES ERROR
 
   return (
     <div>
@@ -24,6 +25,8 @@ export default function ProjectPage({ params }) {
       {detailsPage === "project-details4" && <ProjectDetails4 />}
       {detailsPage === "project-details5" && <ProjectDetails5 />}
       {detailsPage === "project-details6" && <ProjectDetails6 />}
+      {detailsPage === "project-details7" && <ProjectDetails7 />}
+      {detailsPage === "project-details8" && <ProjectDetails8 />}
     </div>
   );
 }

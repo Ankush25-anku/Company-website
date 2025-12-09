@@ -394,8 +394,15 @@ const ContactInfo = ()=>{
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "contact-map",
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("iframe", {
-                                            src: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57559.095682562875!2d88.60522403504652!3d25.6234028155105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fb529bc7fc909b%3A0xd8f861ed9baf24de!2sDinajpur!5e0!3m2!1sen!2sbd!4v1729067103339!5m2!1sen!2sbd",
-                                            loading: "lazy"
+                                            src: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.431430694108!2d77.75814737507963!3d13.01181948730563!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae115c2336cb51%3A0x48a9d372986fd887!2s401%2C%20Seegehalli%20Rd%2C%20Krishnarajapuram%2C%20Bengaluru%2C%20Karnataka%20560115!5e0!3m2!1sen!2sin!4v1733380000000!5m2!1sen!2sin",
+                                            width: "100%",
+                                            height: "450",
+                                            style: {
+                                                border: 0
+                                            },
+                                            allowFullScreen: "",
+                                            loading: "lazy",
+                                            referrerPolicy: "no-referrer-when-downgrade"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/Components/ContactInfo/ContactInfo.jsx",
                                             lineNumber: 133,
@@ -421,7 +428,7 @@ const ContactInfo = ()=>{
                                                 children: "Ready to Get Started?"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/ContactInfo/ContactInfo.jsx",
-                                                lineNumber: 141,
+                                                lineNumber: 146,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -429,7 +436,7 @@ const ContactInfo = ()=>{
                                                 children: "Nullam varius, erat quis iaculis dictum, eros urna varius eros, ut blandit felis odio in turpis. Quisque rhoncus,"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/ContactInfo/ContactInfo.jsx",
-                                                lineNumber: 142,
+                                                lineNumber: 147,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("form", {
@@ -448,7 +455,7 @@ const ContactInfo = ()=>{
                                                                         children: "Your name*"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/app/Components/ContactInfo/ContactInfo.jsx",
-                                                                        lineNumber: 154,
+                                                                        lineNumber: 159,
                                                                         columnNumber: 27
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -458,18 +465,18 @@ const ContactInfo = ()=>{
                                                                         placeholder: "Your Name"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/app/Components/ContactInfo/ContactInfo.jsx",
-                                                                        lineNumber: 155,
+                                                                        lineNumber: 160,
                                                                         columnNumber: 27
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/src/app/Components/ContactInfo/ContactInfo.jsx",
-                                                                lineNumber: 153,
+                                                                lineNumber: 158,
                                                                 columnNumber: 25
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/ContactInfo/ContactInfo.jsx",
-                                                            lineNumber: 149,
+                                                            lineNumber: 154,
                                                             columnNumber: 23
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -482,7 +489,7 @@ const ContactInfo = ()=>{
                                                                         children: "Your Email*"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/app/Components/ContactInfo/ContactInfo.jsx",
-                                                                        lineNumber: 168,
+                                                                        lineNumber: 173,
                                                                         columnNumber: 27
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -492,18 +499,18 @@ const ContactInfo = ()=>{
                                                                         placeholder: "Your Email"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/app/Components/ContactInfo/ContactInfo.jsx",
-                                                                        lineNumber: 169,
+                                                                        lineNumber: 174,
                                                                         columnNumber: 27
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/src/app/Components/ContactInfo/ContactInfo.jsx",
-                                                                lineNumber: 167,
+                                                                lineNumber: 172,
                                                                 columnNumber: 25
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/ContactInfo/ContactInfo.jsx",
-                                                            lineNumber: 163,
+                                                            lineNumber: 168,
                                                             columnNumber: 23
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -516,7 +523,7 @@ const ContactInfo = ()=>{
                                                                         children: "Write Message*"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/app/Components/ContactInfo/ContactInfo.jsx",
-                                                                        lineNumber: 182,
+                                                                        lineNumber: 187,
                                                                         columnNumber: 27
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("textarea", {
@@ -525,18 +532,18 @@ const ContactInfo = ()=>{
                                                                         placeholder: "Write Message"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/app/Components/ContactInfo/ContactInfo.jsx",
-                                                                        lineNumber: 183,
+                                                                        lineNumber: 188,
                                                                         columnNumber: 27
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/src/app/Components/ContactInfo/ContactInfo.jsx",
-                                                                lineNumber: 181,
+                                                                lineNumber: 186,
                                                                 columnNumber: 25
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/ContactInfo/ContactInfo.jsx",
-                                                            lineNumber: 177,
+                                                            lineNumber: 182,
                                                             columnNumber: 23
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -551,40 +558,40 @@ const ContactInfo = ()=>{
                                                                         className: "bi bi-arrow-right"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/app/Components/ContactInfo/ContactInfo.jsx",
-                                                                        lineNumber: 195,
+                                                                        lineNumber: 200,
                                                                         columnNumber: 40
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/src/app/Components/ContactInfo/ContactInfo.jsx",
-                                                                lineNumber: 194,
+                                                                lineNumber: 199,
                                                                 columnNumber: 25
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/ContactInfo/ContactInfo.jsx",
-                                                            lineNumber: 190,
+                                                            lineNumber: 195,
                                                             columnNumber: 23
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/Components/ContactInfo/ContactInfo.jsx",
-                                                    lineNumber: 148,
+                                                    lineNumber: 153,
                                                     columnNumber: 21
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/ContactInfo/ContactInfo.jsx",
-                                                lineNumber: 147,
+                                                lineNumber: 152,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/Components/ContactInfo/ContactInfo.jsx",
-                                        lineNumber: 140,
+                                        lineNumber: 145,
                                         columnNumber: 17
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/ContactInfo/ContactInfo.jsx",
-                                    lineNumber: 139,
+                                    lineNumber: 144,
                                     columnNumber: 15
                                 }, this)
                             ]

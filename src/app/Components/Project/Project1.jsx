@@ -8,7 +8,7 @@ const Project1 = () => {
           <div className="col-xl-6 col-md-6">
             <ProjectCard
               img="/assets/images/project/construction1234.png"
-              title="Construction Project"
+              title="Sri Balaji Constructions LLP"
               btnname="View Project"
               link="https://www.sribalajillp.in/"
               detailsPage="project-details"
@@ -19,7 +19,7 @@ const Project1 = () => {
               <div className="col-md-6">
                 <ProjectCard
                   img="/assets/images/project/screen13.png"
-                  title="Working Laptop"
+                  title="Keerthi & Co Accounting Firm"
                   btnname="View Project"
                   link="https://www.keerthiandco.in/"
                   detailsPage="project-details1"
@@ -28,25 +28,26 @@ const Project1 = () => {
               <div className="col-md-6">
                 <ProjectCard
                   img="/assets/images/project/found1.png"
-                  title="Working Laptop"
+                  title="Bhishma Foundation"
                   btnname="View Project"
                   link="https://www.bhishma.co.in/"
                   detailsPage="project-details2"
                 ></ProjectCard>
               </div>
+
               <div className="col-md-6">
                 <ProjectCard
                   img="/assets/images/project/const1.png"
-                  title="Working Laptop"
+                  title="Padma Constructions"
                   btnname="View Project"
                   link="https://www.padmaconstructions.co.in/"
                   detailsPage="project-details3"
-                ></ProjectCard>
+                />
               </div>
               <div className="col-md-6">
                 <ProjectCard
                   img="/assets/images/project/law1.png"
-                  title="Working Laptop"
+                  title="Lawsmith Legal Services"
                   btnname="View Project"
                   link="https://lawsmithandco.in/"
                   detailsPage="project-details4"
@@ -61,7 +62,7 @@ const Project1 = () => {
               <div className="col-md-6">
                 <ProjectCard
                   img="/assets/images/project/glass1.png"
-                  title="Working Laptop"
+                  title="Glass Garden Online Store"
                   btnname="View Project"
                   link="https://glassgarden.in/"
                   detailsPage="project-details5"
@@ -70,7 +71,7 @@ const Project1 = () => {
               <div className="col-md-6">
                 <ProjectCard
                   img="/assets/images/project/meta1.png"
-                  title="Working Laptop"
+                  title="Metaservs Client"
                   btnname="View Project"
                   link="https://www.metaservs.com/clients"
                   detailsPage="project-details6"
@@ -78,25 +79,31 @@ const Project1 = () => {
               </div>
               <div className="col-md-6">
                 <ProjectCard
-                  img="/assets/images/project/projectThumb1_8.jpg"
-                  title="Working Laptop"
+                  img="/assets/images/project/law15 (1).jpg"
+                  title="Lawsmith Legal Services"
                   btnname="View Project"
+                  link="https://lawsmithandco.in/"
+                  detailsPage="project-details4"
                 ></ProjectCard>
               </div>
               <div className="col-md-6">
                 <ProjectCard
-                  img="/assets/images/project/projectThumb1_9.jpg"
-                  title="Working Laptop"
+                  img="/assets/images/project/CAA9 (1).jpg"
+                  title="Jyothsna & Associates (CA Firm)"
                   btnname="View Project"
+                  link="https://cajyothsna.in/"
+                  detailsPage="project-details8"
                 ></ProjectCard>
               </div>
             </div>
           </div>
           <div className="col-md-6">
             <ProjectCard
-              img="/assets/images/project/projectThumb1_10.jpg"
-              title="Working Laptop"
+              img="/assets/images/project/projectThumb1_10 (1).png"
+              title="Sri Nitya Power Solutions"
               btnname="View Project"
+              link="https://www.srinityapowersolutions.com/"
+              detailsPage="project-details7"
             ></ProjectCard>
           </div>
         </div>

@@ -9211,6 +9211,24 @@ input.main-search-input::placeholder {
   max-width: 100%;
 }
 
+/* FIX: Prevent Project Title Overflow & Make Responsive */
+/* Fix ONLY titles inside project cards */
+.project-card.style1 .project-content h3 a {
+  white-space: normal !important;      /* allow wrapping */
+  word-break: normal !important;       /* prevent splitting inside words */
+  overflow-wrap: break-word !important;
+  font-size: clamp(20px, 1.5vw, 26px) !important;
+  line-height: 1.25 !important;
+  display: block;
+}
+
+/* Special fix: keep the box wider so the title fits naturally */
+.project-card.style1 .project-content {
+  max-width: 380px !important;        /* increased from 323px */
+}
+
+
+
 /* 31.Team */
 .team-card.style1 {
   margin-top: 150px;

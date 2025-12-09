@@ -10,10 +10,18 @@ const Cta2 = () => {
           data-wow-delay=".3s"
         >
           <Image
-            src="/assets/images/services/service1.jpg"
+            src="/assets/images/services/services16.jpeg"
             alt="img"
             width={1170}
             height={526}
+            quality={100}
+            priority
+            style={{
+              width: "100%",
+              height: "auto",
+              objectFit: "cover",
+              borderRadius: "12px",
+            }}
           />
         </div>
       </div>

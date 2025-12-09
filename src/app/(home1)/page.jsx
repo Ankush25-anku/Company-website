@@ -1,11 +1,11 @@
 import React from "react";
 import HeroBanner1 from "../Components/HeroBanner/HeroBanner1";
-import Brand1 from "../Components/Brand/Brand1";
+// import Brand1 from "../Components/Brand/Brand1";
 import About1 from "../Components/About/About1";
 import HowWork from "../Components/HowWork/HowWork";
 import Choose1 from "../Components/Choose/Choose1";
 import Feature1 from "../Components/Feature/Feature1";
-import Counter1 from "../Components/Counter/Counter1";
+// import Counter1 from "../Components/Counter/Counter1";
 import Faq1 from "../Components/Faq/Faq1";
 import Testimonial from "../Components/Testimonial/Testimonial";
 import Feature2 from "../Components/Feature/Feature2";
@@ -31,9 +31,11 @@ const page = () => {
         cuscontent="Projects Delivered"
         rating="5.0/5"
         ratingcon="Client Satisfaction"
-        img="/assets/images/intro/introThumb1_1.png"
+        img="/assets/images/intro/thumb1 (1).png"
       ></HeroBanner1>
-      <Brand1></Brand1>
+      {/* <Brand1></Brand1> */}
+
+      <div style={{ height: "60px" }}></div>
       <About1
         img1="/assets/images/about/aboutThumb1_1.png"
         img2="/assets/images/about/aboutThumb1_2.png"
@@ -62,21 +64,21 @@ const page = () => {
       />
 
       <Feature1></Feature1>
-      <Counter1></Counter1>
+      {/* <Counter1></Counter1> */}
       <Faq1></Faq1>
       <Testimonial></Testimonial>
       <Feature2></Feature2>
       <Pricing1></Pricing1>
-      <Cta1
+      {/* <Cta1
         subtitle="Our App"
         title="Get the RC Techbox ERP & Website App Today!"
         content="Streamline your business operations with our ERP and website solutions. Start your free trial and see the difference it makes."
         btnurl1="https://play.google.com/store"
         btnurl2="https://www.apple.com/store"
         img="/assets/images/cta/ctaThumb1_1.webp"
-      />
+      /> */}
 
-      <Blog1></Blog1>
+      {/* <Blog1></Blog1> */}
     </div>
   );
 };

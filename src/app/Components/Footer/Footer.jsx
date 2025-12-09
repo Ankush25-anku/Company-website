@@ -14,8 +14,10 @@ const Footer = () => {
         <div className="shape3">
           <img src="/assets/images/shape/footerShape1_3.png" alt="shape" />
         </div>
+
         <div className="container">
           <div className="row">
+            {/* LOGO + DESCRIPTION */}
             <div
               className="col-xl-4 col-lg-4 col-md-6 wow fadeInUp"
               data-wow-delay=".2s"
@@ -25,36 +27,33 @@ const Footer = () => {
                   <Link href="/">
                     <Image
                       src="/assets/images/logo/RClogo3.png"
-                      alt="RC Techbox Logo"
+                      alt="RCERP TECHNOLOGIES PVT LTD Logo"
                       width={177}
                       height={54}
                     />
                   </Link>
                 </div>
+
                 <div className="footer-content">
                   <p>
-                    RC Techbox IT Services specializes in building custom ERP
-                    systems and modern websites to help businesses streamline
-                    operations and enhance their online presence.
+                    RCERP TECHNOLOGIES PVT LTD specializes in building custom
+                    ERP systems and modern websites to help businesses
+                    streamline operations and enhance their digital presence.
                   </p>
+
                   <div className="store-links">
                     <div className="apple">
-                      <a href="#">
-                        {/* App Store Icon */}
-                        App Store
-                      </a>
+                      <a href="#">App Store</a>
                     </div>
                     <div className="play">
-                      <a href="#">
-                        {/* Play Store Icon */}
-                        Play Store
-                      </a>
+                      <a href="#">Play Store</a>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
 
+            {/* PAGES */}
             <div
               className="col-xl-2 col-lg-4 col-md-6 ps-lg-5 wow fadeInUp"
               data-wow-delay=".4s"
@@ -86,6 +85,7 @@ const Footer = () => {
               </div>
             </div>
 
+            {/* UTILITY PAGES */}
             <div
               className="col-xl-2 col-lg-4 col-md-6 wow fadeInUp"
               data-wow-delay=".8s"
@@ -117,6 +117,7 @@ const Footer = () => {
               </div>
             </div>
 
+            {/* CONTACT */}
             <div className="col-xl-4 col-lg-4 col-md-6">
               <div className="single-footer-widget">
                 <div className="contact-box">
@@ -126,16 +127,16 @@ const Footer = () => {
                     Reach out to us for custom ERP solutions and website
                     development services.
                   </div>
+
                   <div className="info">
-                    <div className="icon">{/* Email Icon */}</div>
                     <div className="link">
                       <a href="mailto:ravichandra@rctechbox.com">
                         ravichandra@rctechbox.com
                       </a>
                     </div>
                   </div>
+
                   <div className="info">
-                    <div className="icon">{/* Phone Icon */}</div>
                     <div className="link">
                       <a href="tel:+917892104196">+91 7892104196</a>
                     </div>
@@ -147,12 +148,13 @@ const Footer = () => {
         </div>
       </div>
 
+      {/* COPYRIGHT SECTION */}
       <div className="footer-bottom style1">
         <div className="container">
           <div className="footer-wrapper d-flex align-items-center justify-content-between">
             <p className="wow fadeInLeft" data-wow-delay=".3s">
-              Copyright © {new Date().getFullYear()} RC Techbox IT Services. All
-              rights reserved.
+              Copyright © {new Date().getFullYear()} RCERP TECHNOLOGIES PVT LTD.
+              All rights reserved.
             </p>
 
             <ul className="social-links" data-wow-delay=".5s">

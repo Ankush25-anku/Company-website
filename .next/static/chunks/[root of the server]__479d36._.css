@@ -32470,6 +32470,19 @@ input.main-search-input::placeholder {
   max-width: 100%;
 }
 
+.project-card.style1 .project-content h3 a {
+  display: block;
+  white-space: normal !important;
+  word-break: normal !important;
+  overflow-wrap: break-word !important;
+  font-size: clamp(20px, 1.5vw, 26px) !important;
+  line-height: 1.25 !important;
+}
+
+.project-card.style1 .project-content {
+  max-width: 380px !important;
+}
+
 .team-card.style1 {
   margin-top: 150px;
   text-align: center;
