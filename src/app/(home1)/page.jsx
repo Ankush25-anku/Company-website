@@ -26,8 +26,8 @@ const page = () => {
         btnurl="/contact"
         btntwo="View Our Work"
         btn2url="/portfolio"
-        cusimg="/assets/images/intro/introProfileThumb1_1.png"
-        cusnumber="500+"
+        // cusimg="/assets/images/intro/introProfileThumb1_1.png"
+        cusnumber="50+"
         cuscontent="Projects Delivered"
         rating="5.0/5"
         ratingcon="Client Satisfaction"
@@ -68,7 +68,7 @@ const page = () => {
       <Faq1></Faq1>
       <Testimonial></Testimonial>
       <Feature2></Feature2>
-      <Pricing1></Pricing1>
+      {/* <Pricing1></Pricing1> */}
       {/* <Cta1
         subtitle="Our App"
         title="Get the RC Techbox ERP & Website App Today!"

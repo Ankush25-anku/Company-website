@@ -10,7 +10,7 @@ const Cta2 = () => {
           data-wow-delay=".3s"
         >
           <Image
-            src="/assets/images/services/services16.jpeg"
+            src="/assets/images/services/company3.png"
             alt="img"
             width={1170}
             height={526}

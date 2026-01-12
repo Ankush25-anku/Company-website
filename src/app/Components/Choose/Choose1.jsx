@@ -104,7 +104,7 @@ const Choose1 = ({
                       data-tilt-max="10"
                     >
                       <Image
-                        src="/assets/images/advantage/advantageThumb1_1.webp"
+                        src="/assets/images/advantage/advantage1 (1) (1).png"
                         alt="img"
                         width={366}
                         height={591}
@@ -117,7 +117,7 @@ const Choose1 = ({
                       data-tilt-max="15"
                     >
                       <Image
-                        src="/assets/images/advantage/advantageThumb1_2.webp"
+                        src="/assets/images/advantage/ChatGPT Image Jan 9, 2026, 01_08_32 PM (1) (1).png"
                         alt="img"
                         width={369}
                         height={589}

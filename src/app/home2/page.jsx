@@ -20,7 +20,7 @@ const page = () => {
         btnurl="/contact"
         btnname2="Explore Features"
         btnurl2="/about"
-        img1="/assets/images/intro/introThumb2_1.png"
+        img1="/assets/images/intro/schoolimage (1).png"
         img2="/assets/images/intro/introThumb2_2.png"
         img3="/assets/images/intro/introThumb2_3.png"
       ></HeroBanner2>
@@ -40,7 +40,7 @@ const page = () => {
       <Feature3></Feature3>
       <HowWork2></HowWork2>
       <Choose2
-        img1="/assets/images/wcu/wcuThumb2_1.png"
+        img1="/assets/images/wcu/school erp3 (1).png"
         img2="/assets/images/wcu/wcuThumb2_2.png"
         img3="/assets/images/wcu/wcuThumb2_3.png"
         subtitle="Why Choose Our School ERP"
@@ -54,7 +54,7 @@ const page = () => {
         boxcontent2="Automate daily operations like attendance, exams, and fee management with ease."
       ></Choose2>
       <Choose3></Choose3>
-      <Pricing2></Pricing2>
+      {/* <Pricing2></Pricing2> */}
       <Testimonial2></Testimonial2>
       {/* <Brand2></Brand2>
       <Blog1></Blog1> */}

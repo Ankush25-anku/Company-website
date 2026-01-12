@@ -68,12 +68,26 @@ export default function Header1({ variant }) {
               </div>
               <div className="cs_main_header_right">
                 <div className="header-btn d-flex align-items-center">
+                  {/* WhatsApp Icon */}
+                  <a
+                    href="https://wa.me/917892104196"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="whatsapp-icon"
+                    aria-label="Chat on WhatsApp"
+                  >
+                    <i className="bi bi-whatsapp"></i>
+                  </a>
+
+                  {/* Search Icon */}
                   <a
                     onClick={() => setSearchToggle(!searchToggle)}
-                    className="search-trigger search-icon"
+                    className="search-trigger search-icon ms-3"
                   >
                     <i className="bi bi-search"></i>
                   </a>
+
+                  {/* CTA Button */}
                   <div className="header-button ms-4">
                     <Link href="/contact" className="theme-btn">
                       <span>

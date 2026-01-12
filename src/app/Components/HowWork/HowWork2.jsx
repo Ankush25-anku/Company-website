@@ -90,7 +90,7 @@ const HowWork2 = () => {
               <div className="wp-thumb wow fadeInUp" data-wow-delay=".4s">
                 <div className="main-thumb img-custom-anim-right wow">
                   <Image
-                    src="/assets/images/wp/wpThumb2_1.jpg"
+                    src="/assets/images/wp/school erp2 (1).png"
                     alt="img"
                     width={1011}
                     height={711}
