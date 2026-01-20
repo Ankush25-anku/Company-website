@@ -14,7 +14,7 @@ const page = () => {
   return (
     <div>
       <HeroBanner2
-        subtitle="<span>School ERP</span> Smart Management"
+        subtitle="<span>Shiksha Flow</span> Smart Management"
         title="Streamline Administration <br> Empower Learning."
         btnname="Request a Demo"
         btnurl="/contact"
@@ -26,8 +26,8 @@ const page = () => {
       ></HeroBanner2>
       <About2
         subtitle="About Us"
-        title="A Powerful and User-Friendly ERP for Schools"
-        content="Our School ERP system is designed to simplify administration, enhance communication, and empower teachers, students, and parents. From attendance and fees to exams and reports, everything is managed on a single, easy-to-use platform."
+        title="A Powerful and User-Friendly Shiksha Flow for Schools"
+        content="Shiksha Flow is designed to simplify school administration, enhance communication, and empower teachers, students, and parents. From attendance and fees to exams and reports, everything is managed on a single, easy-to-use platform."
         boximg1="/assets/images/icon/wcuIcon2_1.svg"
         boxtitle1="Seamless Communication"
         boxcontent1="Bridge the gap between teachers, students, and parents with instant updates and notifications."
@@ -39,20 +39,21 @@ const page = () => {
       ></About2>
       <Feature3></Feature3>
       <HowWork2></HowWork2>
-      <Choose2
-        img1="/assets/images/wcu/school erp3 (1).png"
-        img2="/assets/images/wcu/wcuThumb2_2.png"
-        img3="/assets/images/wcu/wcuThumb2_3.png"
-        subtitle="Why Choose Our School ERP"
-        title="Simplify School Management & Boost Collaboration"
-        content="Our School ERP system is built to make academic and administrative tasks easier for schools. From attendance tracking to fee collection and student performance, everything is managed seamlessly on one platform."
-        boximg1="/assets/images/icon/wcuIcon2_1.svg"
-        boxtitle1="Seamless Communication"
-        boxcontent1="Keep teachers, students, and parents connected with instant updates and notifications."
-        boximg2="/assets/images/icon/wcuIcon2_2.svg"
-        boxtitle2="Smart Administration"
-        boxcontent2="Automate daily operations like attendance, exams, and fee management with ease."
-      ></Choose2>
+   <Choose2
+  img1="/assets/images/wcu/school erp3 (1).png"
+  img2="/assets/images/wcu/wcuThumb2_2.png"
+  img3="/assets/images/wcu/wcuThumb2_3.png"
+  subtitle="Why Choose Shiksha Flow"
+  title="Simplify School Management & Boost Collaboration"
+  content="Shiksha Flow is built to make academic and administrative tasks easier for schools. From attendance tracking to fee collection and student performance, everything is managed seamlessly on one unified platform."
+  boximg1="/assets/images/icon/wcuIcon2_1.svg"
+  boxtitle1="Seamless Communication"
+  boxcontent1="Keep teachers, students, and parents connected with instant updates and notifications."
+  boximg2="/assets/images/icon/wcuIcon2_2.svg"
+  boxtitle2="Smart Administration"
+  boxcontent2="Automate daily operations like attendance, exams, and fee management with ease."
+></Choose2>
+
       <Choose3></Choose3>
       {/* <Pricing2></Pricing2> */}
       <Testimonial2></Testimonial2>

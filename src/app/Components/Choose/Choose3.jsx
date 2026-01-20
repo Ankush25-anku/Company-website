@@ -12,7 +12,7 @@ const Choose3 = () => {
                 <div className="wcu-content">
                   <div className="section-title">
                     <div className="subtitle wow fadeInUp" data-wow-delay=".2s">
-                      School ERP Solutions{" "}
+                      Shiksha Flow Solutions{" "}
                       <Image
                         src="/assets/images/icon/fireIcon.svg"
                         alt="img"
@@ -20,21 +20,25 @@ const Choose3 = () => {
                         height={17}
                       />
                     </div>
+
                     <h2 className="title wow fadeInUp" data-wow-delay=".4s">
-                      Simplify School Operations <br /> with Smart Management
+                      Simplify School Operations <br /> with Shiksha Flow
                     </h2>
+
                     <p className="text1 wow fadeInUp" data-wow-delay=".6s">
-                      Our ERP system empowers schools to manage attendance,
-                      fees, exams, and communication in one secure platform. It
+                      Shiksha Flow empowers schools to manage attendance, fees,
+                      exams, and communication in one secure platform. It
                       reduces manual work and improves efficiency for teachers,
                       students, and administrators alike.
                     </p>
+
                     <p className="text2 wow fadeInUp" data-wow-delay=".8s">
-                      With real-time insights and automation, schools can focus
-                      more on quality education while the ERP handles daily
-                      operations seamlessly.
+                      With real-time insights and smart automation, Shiksha Flow
+                      helps schools focus more on quality education while daily
+                      operations run seamlessly in the background.
                     </p>
                   </div>
+
                   <Link
                     className="theme-btn rounded-5 wow fadeInUp"
                     data-wow-delay=".4s"
@@ -62,6 +66,7 @@ const Choose3 = () => {
                       </defs>
                     </svg>
                   </Link>
+
                   <div className="counter-box-wrapper style3">
                     <div
                       className="counter-box style3 wow fadeInUp"
@@ -71,8 +76,9 @@ const Choose3 = () => {
                         <span className="counter-nubmer">500</span>{" "}
                         <span>+</span>
                       </div>
-                      <p className="text">Schools Using ERP</p>
+                      <p className="text">Schools Using Shiksha Flow</p>
                     </div>
+
                     <div
                       className="counter-box style3 wow fadeInUp"
                       data-wow-delay=".4s"
@@ -83,6 +89,7 @@ const Choose3 = () => {
                       </div>
                       <p className="text">Teachers & Staff Connected</p>
                     </div>
+
                     <div
                       className="counter-box style3 wow fadeInUp"
                       data-wow-delay=".6s"
@@ -96,6 +103,7 @@ const Choose3 = () => {
                   </div>
                 </div>
               </div>
+
               <div className="col-xl-6">
                 <div className="wcu-thumb">
                   <div
@@ -109,6 +117,7 @@ const Choose3 = () => {
                       height={503}
                     />
                   </div>
+
                   <div className="thumb2">
                     <Image
                       src="/assets/images/wcu/wcuThumb3_2.png"
@@ -117,12 +126,14 @@ const Choose3 = () => {
                       height={340}
                     />
                   </div>
+
                   <div
                     className="thumb-box float-bob-y wow fadeInUp"
                     data-wow-delay=".4s"
                   >
                     <h5>School Growth</h5>
                     <p className="text">Improved efficiency by 45%</p>
+
                     <div className="shape-box">
                       <Image
                         src="/assets/images/shape/wcuThumbShape3_1.png"

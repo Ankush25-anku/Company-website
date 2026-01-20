@@ -15,7 +15,7 @@ export default function Nav({ setMobileToggle }) {
             </li>
             <li>
               <Link href="/home2" onClick={() => setMobileToggle(false)}>
-                School ERP
+                Shiksha Flow
               </Link>
             </li>
             <li>
