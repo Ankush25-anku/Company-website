@@ -69,15 +69,6 @@ export default function Header1({ variant }) {
               <div className="cs_main_header_right">
                 <div className="header-btn d-flex align-items-center">
                   {/* WhatsApp Icon */}
-                  <a
-                    href="https://wa.me/917892104196"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="whatsapp-icon"
-                    aria-label="Chat on WhatsApp"
-                  >
-                    <i className="bi bi-whatsapp"></i>
-                  </a>
 
                   {/* Search Icon */}
                   <a

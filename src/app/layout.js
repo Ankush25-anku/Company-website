@@ -39,6 +39,16 @@ export default function RootLayout({ children }) {
       </head>
       <body className={`${urbanist.variable} ${nunito.variable}`}>
         {children}
+
+        {/* WhatsApp Floating Button */}
+        <a
+          href="https://wa.me/917892104196"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="whatsapp-float"
+        >
+          <i className="bi bi-whatsapp"></i>
+        </a>
       </body>
     </html>
   );
